@@ -1,0 +1,7423 @@
+fileFormatVersion: 2
+guid: fd49f1d4a40579043985f8106ccce705
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3358754968254357586
+    second: TileFleurs_16x16_0
+  - first:
+      213: -7996786246001386570
+    second: TileFleurs_16x16_1
+  - first:
+      213: -6583845114846887150
+    second: TileFleurs_16x16_2
+  - first:
+      213: -3458465761050521642
+    second: TileFleurs_16x16_3
+  - first:
+      213: -8653371502351014469
+    second: TileFleurs_16x16_4
+  - first:
+      213: 6908352415427102540
+    second: TileFleurs_16x16_5
+  - first:
+      213: 3090644835875197254
+    second: TileFleurs_16x16_6
+  - first:
+      213: -8642483535182642246
+    second: TileFleurs_16x16_7
+  - first:
+      213: 7487126898884839118
+    second: TileFleurs_16x16_8
+  - first:
+      213: -6119709341781015497
+    second: TileFleurs_16x16_9
+  - first:
+      213: 1131089613294648134
+    second: TileFleurs_16x16_10
+  - first:
+      213: -2066041001307166788
+    second: TileFleurs_16x16_11
+  - first:
+      213: -8093328723685229037
+    second: TileFleurs_16x16_12
+  - first:
+      213: 8507797326076475457
+    second: TileFleurs_16x16_13
+  - first:
+      213: 3470309038841057307
+    second: TileFleurs_16x16_14
+  - first:
+      213: -2370019311267947372
+    second: TileFleurs_16x16_15
+  - first:
+      213: -2696323044665564345
+    second: TileFleurs_16x16_16
+  - first:
+      213: -7714422904627237000
+    second: TileFleurs_16x16_17
+  - first:
+      213: 2922488831127642544
+    second: TileFleurs_16x16_18
+  - first:
+      213: 4813542375904022403
+    second: TileFleurs_16x16_19
+  - first:
+      213: 8930766405951546307
+    second: TileFleurs_16x16_20
+  - first:
+      213: 1980099042509866700
+    second: TileFleurs_16x16_21
+  - first:
+      213: 8856599689372690139
+    second: TileFleurs_16x16_22
+  - first:
+      213: -1184847477201227440
+    second: TileFleurs_16x16_23
+  - first:
+      213: -1617610427950328436
+    second: TileFleurs_16x16_24
+  - first:
+      213: 5862794688907389908
+    second: TileFleurs_16x16_25
+  - first:
+      213: -466384169312146287
+    second: TileFleurs_16x16_26
+  - first:
+      213: -7367117611362707738
+    second: TileFleurs_16x16_27
+  - first:
+      213: 854262003977043950
+    second: TileFleurs_16x16_28
+  - first:
+      213: 4488394455078501864
+    second: TileFleurs_16x16_29
+  - first:
+      213: 3572771226054929849
+    second: TileFleurs_16x16_30
+  - first:
+      213: -5011912485041024698
+    second: TileFleurs_16x16_31
+  - first:
+      213: -4713995575704385679
+    second: TileFleurs_16x16_32
+  - first:
+      213: -8539354316826332910
+    second: TileFleurs_16x16_33
+  - first:
+      213: -7410849953544963295
+    second: TileFleurs_16x16_34
+  - first:
+      213: -688655498584121069
+    second: TileFleurs_16x16_35
+  - first:
+      213: -4239047441318142374
+    second: TileFleurs_16x16_36
+  - first:
+      213: -5442662097199805181
+    second: TileFleurs_16x16_37
+  - first:
+      213: -4496950549418254767
+    second: TileFleurs_16x16_38
+  - first:
+      213: 95858400193038109
+    second: TileFleurs_16x16_39
+  - first:
+      213: 295072397423477505
+    second: TileFleurs_16x16_40
+  - first:
+      213: 9081819391202638936
+    second: TileFleurs_16x16_41
+  - first:
+      213: -5215406772724126926
+    second: TileFleurs_16x16_42
+  - first:
+      213: -5255758571806025244
+    second: TileFleurs_16x16_43
+  - first:
+      213: 5643813212676936494
+    second: TileFleurs_16x16_44
+  - first:
+      213: -7248231988056361645
+    second: TileFleurs_16x16_45
+  - first:
+      213: -9094274774771854472
+    second: TileFleurs_16x16_46
+  - first:
+      213: -8962331036929667933
+    second: TileFleurs_16x16_47
+  - first:
+      213: -3204787138587508965
+    second: TileFleurs_16x16_48
+  - first:
+      213: -6488538993366922642
+    second: TileFleurs_16x16_49
+  - first:
+      213: 4599495218062594977
+    second: TileFleurs_16x16_50
+  - first:
+      213: -782606187475076709
+    second: TileFleurs_16x16_51
+  - first:
+      213: 1809773911088406180
+    second: TileFleurs_16x16_52
+  - first:
+      213: -7378703544642407185
+    second: TileFleurs_16x16_53
+  - first:
+      213: -4077421674909203508
+    second: TileFleurs_16x16_54
+  - first:
+      213: 3757060161647054286
+    second: TileFleurs_16x16_55
+  - first:
+      213: 8740148636629944032
+    second: TileFleurs_16x16_56
+  - first:
+      213: -7776082452771260635
+    second: TileFleurs_16x16_57
+  - first:
+      213: -2491695509872772496
+    second: TileFleurs_16x16_58
+  - first:
+      213: -2122814928082776998
+    second: TileFleurs_16x16_59
+  - first:
+      213: 7441730187643545048
+    second: TileFleurs_16x16_60
+  - first:
+      213: -3809439980716093051
+    second: TileFleurs_16x16_61
+  - first:
+      213: -5977144448983593992
+    second: TileFleurs_16x16_62
+  - first:
+      213: 5109825836992241929
+    second: TileFleurs_16x16_63
+  - first:
+      213: 7908939195856229492
+    second: TileFleurs_16x16_64
+  - first:
+      213: -3369323994196870991
+    second: TileFleurs_16x16_65
+  - first:
+      213: 8866396555483070527
+    second: TileFleurs_16x16_66
+  - first:
+      213: 3458067671341330051
+    second: TileFleurs_16x16_67
+  - first:
+      213: -6505576847718620677
+    second: TileFleurs_16x16_68
+  - first:
+      213: 2486102793810803355
+    second: TileFleurs_16x16_69
+  - first:
+      213: 7463862776227936850
+    second: TileFleurs_16x16_70
+  - first:
+      213: -2514925816844654738
+    second: TileFleurs_16x16_71
+  - first:
+      213: -1049519309444264359
+    second: TileFleurs_16x16_72
+  - first:
+      213: 1601914257805081434
+    second: TileFleurs_16x16_73
+  - first:
+      213: -5601839890485700282
+    second: TileFleurs_16x16_74
+  - first:
+      213: -2176520327825407741
+    second: TileFleurs_16x16_75
+  - first:
+      213: -6020147586409017447
+    second: TileFleurs_16x16_76
+  - first:
+      213: -2902840660898545272
+    second: TileFleurs_16x16_77
+  - first:
+      213: 4580831519143766792
+    second: TileFleurs_16x16_78
+  - first:
+      213: -7318825213950188386
+    second: TileFleurs_16x16_79
+  - first:
+      213: 6322579891414239856
+    second: TileFleurs_16x16_80
+  - first:
+      213: 1578705167033930494
+    second: TileFleurs_16x16_81
+  - first:
+      213: -9047067894699411004
+    second: TileFleurs_16x16_82
+  - first:
+      213: 4637330267664414906
+    second: TileFleurs_16x16_83
+  - first:
+      213: 1458198845052346974
+    second: TileFleurs_16x16_84
+  - first:
+      213: 5176978947744302461
+    second: TileFleurs_16x16_85
+  - first:
+      213: -4297221341789766138
+    second: TileFleurs_16x16_86
+  - first:
+      213: 4291466480646862688
+    second: TileFleurs_16x16_87
+  - first:
+      213: -3608491889960840337
+    second: TileFleurs_16x16_88
+  - first:
+      213: -7729815008045890003
+    second: TileFleurs_16x16_89
+  - first:
+      213: 2558177255571973917
+    second: TileFleurs_16x16_90
+  - first:
+      213: -6460512268325505611
+    second: TileFleurs_16x16_91
+  - first:
+      213: -238294062999730467
+    second: TileFleurs_16x16_92
+  - first:
+      213: 2759035673959326559
+    second: TileFleurs_16x16_93
+  - first:
+      213: -8098701914557485980
+    second: TileFleurs_16x16_94
+  - first:
+      213: 8814684221823838417
+    second: TileFleurs_16x16_95
+  - first:
+      213: -5103653467797067729
+    second: TileFleurs_16x16_96
+  - first:
+      213: 4994602799199571388
+    second: TileFleurs_16x16_97
+  - first:
+      213: -2563053704282794612
+    second: TileFleurs_16x16_98
+  - first:
+      213: 7684784047527740315
+    second: TileFleurs_16x16_99
+  - first:
+      213: -973225331001020288
+    second: TileFleurs_16x16_100
+  - first:
+      213: -1880718669191162294
+    second: TileFleurs_16x16_101
+  - first:
+      213: -568564733298575169
+    second: TileFleurs_16x16_102
+  - first:
+      213: -5983837433384761674
+    second: TileFleurs_16x16_103
+  - first:
+      213: -5595856659742745367
+    second: TileFleurs_16x16_104
+  - first:
+      213: 1629217566000606994
+    second: TileFleurs_16x16_105
+  - first:
+      213: 3507781625541880639
+    second: TileFleurs_16x16_106
+  - first:
+      213: 6365594705723755484
+    second: TileFleurs_16x16_107
+  - first:
+      213: -8792610253457117010
+    second: TileFleurs_16x16_108
+  - first:
+      213: -6500601570318313773
+    second: TileFleurs_16x16_109
+  - first:
+      213: -885221727048492621
+    second: TileFleurs_16x16_110
+  - first:
+      213: 3287456424238046418
+    second: TileFleurs_16x16_111
+  - first:
+      213: -5244528520455314182
+    second: TileFleurs_16x16_112
+  - first:
+      213: 3700002906134499791
+    second: TileFleurs_16x16_113
+  - first:
+      213: 2222492060912040591
+    second: TileFleurs_16x16_114
+  - first:
+      213: -8769181836000748640
+    second: TileFleurs_16x16_115
+  - first:
+      213: 5390276380246471569
+    second: TileFleurs_16x16_116
+  - first:
+      213: 5345123302550588250
+    second: TileFleurs_16x16_117
+  - first:
+      213: 35398764016454330
+    second: TileFleurs_16x16_118
+  - first:
+      213: -5679600977336796669
+    second: TileFleurs_16x16_119
+  - first:
+      213: -1772992129100839347
+    second: TileFleurs_16x16_120
+  - first:
+      213: -5607118462627724909
+    second: TileFleurs_16x16_121
+  - first:
+      213: 6394257689828291431
+    second: TileFleurs_16x16_122
+  - first:
+      213: 7872837659712951503
+    second: TileFleurs_16x16_123
+  - first:
+      213: -4040825311021054562
+    second: TileFleurs_16x16_124
+  - first:
+      213: 296063539924908274
+    second: TileFleurs_16x16_125
+  - first:
+      213: 3565713602788213270
+    second: TileFleurs_16x16_126
+  - first:
+      213: 1100474118387338412
+    second: TileFleurs_16x16_127
+  - first:
+      213: -8064985665470649470
+    second: TileFleurs_16x16_128
+  - first:
+      213: -2234574982053154780
+    second: TileFleurs_16x16_129
+  - first:
+      213: 5192748834843507043
+    second: TileFleurs_16x16_130
+  - first:
+      213: -838382604542876221
+    second: TileFleurs_16x16_131
+  - first:
+      213: -4699661705237370975
+    second: TileFleurs_16x16_132
+  - first:
+      213: -4275945296554763360
+    second: TileFleurs_16x16_133
+  - first:
+      213: 3375591084186347331
+    second: TileFleurs_16x16_134
+  - first:
+      213: -5334712513332742300
+    second: TileFleurs_16x16_135
+  - first:
+      213: -74185119140515572
+    second: TileFleurs_16x16_136
+  - first:
+      213: 196697933952932405
+    second: TileFleurs_16x16_137
+  - first:
+      213: -8272702837330009431
+    second: TileFleurs_16x16_138
+  - first:
+      213: -8137965108580182402
+    second: TileFleurs_16x16_139
+  - first:
+      213: -1489106133008881065
+    second: TileFleurs_16x16_140
+  - first:
+      213: -6602530893908996894
+    second: TileFleurs_16x16_141
+  - first:
+      213: -8061312070388126874
+    second: TileFleurs_16x16_142
+  - first:
+      213: -5345235240682733930
+    second: TileFleurs_16x16_143
+  - first:
+      213: -9094099784483926616
+    second: TileFleurs_16x16_144
+  - first:
+      213: 3184554876340823870
+    second: TileFleurs_16x16_145
+  - first:
+      213: 8818576116656328379
+    second: TileFleurs_16x16_146
+  - first:
+      213: 5308145490997550513
+    second: TileFleurs_16x16_147
+  - first:
+      213: -1500143183588522730
+    second: TileFleurs_16x16_148
+  - first:
+      213: -4835436750260640106
+    second: TileFleurs_16x16_149
+  - first:
+      213: -1297079913487325203
+    second: TileFleurs_16x16_150
+  - first:
+      213: -183997651917916501
+    second: TileFleurs_16x16_151
+  - first:
+      213: -1253218245441904207
+    second: TileFleurs_16x16_152
+  - first:
+      213: -2031278159579148550
+    second: TileFleurs_16x16_153
+  - first:
+      213: 2025313265617375253
+    second: TileFleurs_16x16_154
+  - first:
+      213: -2509057272970426821
+    second: TileFleurs_16x16_155
+  - first:
+      213: 9069745701526299918
+    second: TileFleurs_16x16_156
+  - first:
+      213: -4044158018481724197
+    second: TileFleurs_16x16_157
+  - first:
+      213: -2563628727148098152
+    second: TileFleurs_16x16_158
+  - first:
+      213: 4411191387521989716
+    second: TileFleurs_16x16_159
+  - first:
+      213: -8130549307116898324
+    second: TileFleurs_16x16_160
+  - first:
+      213: -4736632652898878601
+    second: TileFleurs_16x16_161
+  - first:
+      213: 8646595065792917210
+    second: TileFleurs_16x16_162
+  - first:
+      213: 1791942091386903849
+    second: TileFleurs_16x16_163
+  - first:
+      213: 8107776688983733888
+    second: TileFleurs_16x16_164
+  - first:
+      213: -2025899941620278537
+    second: TileFleurs_16x16_165
+  - first:
+      213: -1279695399035655318
+    second: TileFleurs_16x16_166
+  - first:
+      213: -1270491871758191391
+    second: TileFleurs_16x16_167
+  - first:
+      213: -632453818752001533
+    second: TileFleurs_16x16_168
+  - first:
+      213: -6906886938627219246
+    second: TileFleurs_16x16_169
+  - first:
+      213: -3196820404439615254
+    second: TileFleurs_16x16_170
+  - first:
+      213: -7317820949408006834
+    second: TileFleurs_16x16_171
+  - first:
+      213: -5934390212515643379
+    second: TileFleurs_16x16_172
+  - first:
+      213: 495361677361752111
+    second: TileFleurs_16x16_173
+  - first:
+      213: -4075730833619276372
+    second: TileFleurs_16x16_174
+  - first:
+      213: -3663959041996545300
+    second: TileFleurs_16x16_175
+  - first:
+      213: -2435887724243314837
+    second: TileFleurs_16x16_176
+  - first:
+      213: -9185409504871853083
+    second: TileFleurs_16x16_177
+  - first:
+      213: 5174833426392761585
+    second: TileFleurs_16x16_178
+  - first:
+      213: 2767535389721947446
+    second: TileFleurs_16x16_179
+  - first:
+      213: -5100565279782255650
+    second: TileFleurs_16x16_180
+  - first:
+      213: 4006417115730585042
+    second: TileFleurs_16x16_181
+  - first:
+      213: -8778091763530676382
+    second: TileFleurs_16x16_182
+  - first:
+      213: -7272931858220477184
+    second: TileFleurs_16x16_183
+  - first:
+      213: -6596336937205211500
+    second: TileFleurs_16x16_184
+  - first:
+      213: 2307598746234806666
+    second: TileFleurs_16x16_185
+  - first:
+      213: -6506365175596458190
+    second: TileFleurs_16x16_186
+  - first:
+      213: -2477837080347483829
+    second: TileFleurs_16x16_187
+  - first:
+      213: 3307711364728091353
+    second: TileFleurs_16x16_188
+  - first:
+      213: -9173452619133366738
+    second: TileFleurs_16x16_189
+  - first:
+      213: 3709875548108492809
+    second: TileFleurs_16x16_190
+  - first:
+      213: -6988250196399526985
+    second: TileFleurs_16x16_191
+  - first:
+      213: 6012211400821149366
+    second: TileFleurs_16x16_192
+  - first:
+      213: -4953642167315208680
+    second: TileFleurs_16x16_193
+  - first:
+      213: 2480966316166269305
+    second: TileFleurs_16x16_194
+  - first:
+      213: -8765999893887129428
+    second: TileFleurs_16x16_195
+  - first:
+      213: -3414842957529921605
+    second: TileFleurs_16x16_196
+  - first:
+      213: -52795951684533737
+    second: TileFleurs_16x16_197
+  - first:
+      213: -2286153793674081839
+    second: TileFleurs_16x16_198
+  - first:
+      213: 1739957043895609060
+    second: TileFleurs_16x16_199
+  - first:
+      213: -3841912812138714933
+    second: TileFleurs_16x16_200
+  - first:
+      213: 592398156869250538
+    second: TileFleurs_16x16_201
+  - first:
+      213: -8834919668624803295
+    second: TileFleurs_16x16_202
+  - first:
+      213: -2490092838921318211
+    second: TileFleurs_16x16_203
+  - first:
+      213: -8001686101334886103
+    second: TileFleurs_16x16_204
+  - first:
+      213: -8809771739001812253
+    second: TileFleurs_16x16_205
+  - first:
+      213: -330256762365502821
+    second: TileFleurs_16x16_206
+  - first:
+      213: -5614543523696516592
+    second: TileFleurs_16x16_207
+  - first:
+      213: 1888396513911121166
+    second: TileFleurs_16x16_208
+  - first:
+      213: 894713067211579435
+    second: TileFleurs_16x16_209
+  - first:
+      213: 6586665532505563848
+    second: TileFleurs_16x16_210
+  - first:
+      213: -6709361354592918517
+    second: TileFleurs_16x16_211
+  - first:
+      213: -7230930866426685427
+    second: TileFleurs_16x16_212
+  - first:
+      213: 380337783249513145
+    second: TileFleurs_16x16_213
+  - first:
+      213: 7933768988923015952
+    second: TileFleurs_16x16_214
+  - first:
+      213: -8000894838427638723
+    second: TileFleurs_16x16_215
+  - first:
+      213: -6316611535529986521
+    second: TileFleurs_16x16_216
+  - first:
+      213: -7610488657322195863
+    second: TileFleurs_16x16_217
+  - first:
+      213: -502865023884292400
+    second: TileFleurs_16x16_218
+  - first:
+      213: -5547376221753604906
+    second: TileFleurs_16x16_219
+  - first:
+      213: -960892051112340427
+    second: TileFleurs_16x16_220
+  - first:
+      213: 1282969146995779018
+    second: TileFleurs_16x16_221
+  - first:
+      213: 1954732328144233505
+    second: TileFleurs_16x16_222
+  - first:
+      213: 556079703090504674
+    second: TileFleurs_16x16_223
+  - first:
+      213: -5092484745526117182
+    second: TileFleurs_16x16_224
+  - first:
+      213: -5660349116346776292
+    second: TileFleurs_16x16_225
+  - first:
+      213: -9185671710715975965
+    second: TileFleurs_16x16_226
+  - first:
+      213: -639084269227901102
+    second: TileFleurs_16x16_227
+  - first:
+      213: -1953345483634216815
+    second: TileFleurs_16x16_228
+  - first:
+      213: 8728822279810491181
+    second: TileFleurs_16x16_229
+  - first:
+      213: -3383802692721066710
+    second: TileFleurs_16x16_230
+  - first:
+      213: 3865465694189354402
+    second: TileFleurs_16x16_231
+  - first:
+      213: -5396981796494596410
+    second: TileFleurs_16x16_232
+  - first:
+      213: -7086941048581310068
+    second: TileFleurs_16x16_233
+  - first:
+      213: 7250520598107300494
+    second: TileFleurs_16x16_234
+  - first:
+      213: -6414258875084681869
+    second: TileFleurs_16x16_235
+  - first:
+      213: -4309110277091877115
+    second: TileFleurs_16x16_236
+  - first:
+      213: 7803237947018069625
+    second: TileFleurs_16x16_237
+  - first:
+      213: -6799557109547485883
+    second: TileFleurs_16x16_238
+  - first:
+      213: 1799956841187892847
+    second: TileFleurs_16x16_239
+  - first:
+      213: -3914265854465918291
+    second: TileFleurs_16x16_240
+  - first:
+      213: -542489805673529646
+    second: TileFleurs_16x16_241
+  - first:
+      213: 7204869847355591334
+    second: TileFleurs_16x16_242
+  - first:
+      213: 1934670902889635356
+    second: TileFleurs_16x16_243
+  - first:
+      213: -8298637797639708614
+    second: TileFleurs_16x16_244
+  - first:
+      213: -7444469463867247420
+    second: TileFleurs_16x16_245
+  - first:
+      213: -8113073051475479804
+    second: TileFleurs_16x16_246
+  - first:
+      213: -4445838138047249213
+    second: TileFleurs_16x16_247
+  - first:
+      213: -2905729585096193487
+    second: TileFleurs_16x16_248
+  - first:
+      213: 4552605394171558551
+    second: TileFleurs_16x16_249
+  - first:
+      213: -4655727037082421671
+    second: TileFleurs_16x16_250
+  - first:
+      213: 2796066403937778353
+    second: TileFleurs_16x16_251
+  - first:
+      213: 996816697941652413
+    second: TileFleurs_16x16_252
+  - first:
+      213: 6256074625185443681
+    second: TileFleurs_16x16_253
+  - first:
+      213: 6173546877264468138
+    second: TileFleurs_16x16_254
+  - first:
+      213: 6535157210382375366
+    second: TileFleurs_16x16_255
+  - first:
+      213: -7296870498462641869
+    second: TileFleurs_16x16_256
+  - first:
+      213: 3884747546446703054
+    second: TileFleurs_16x16_257
+  - first:
+      213: 7654225336772442841
+    second: TileFleurs_16x16_258
+  - first:
+      213: -531923556329805000
+    second: TileFleurs_16x16_259
+  - first:
+      213: 8376439225247702890
+    second: TileFleurs_16x16_260
+  - first:
+      213: 8244999191063430656
+    second: TileFleurs_16x16_261
+  - first:
+      213: -4835000967506981250
+    second: TileFleurs_16x16_262
+  - first:
+      213: 6279470338386252491
+    second: TileFleurs_16x16_263
+  - first:
+      213: 5870885834264720411
+    second: TileFleurs_16x16_264
+  - first:
+      213: -808644690703822610
+    second: TileFleurs_16x16_265
+  - first:
+      213: -6181052495841863515
+    second: TileFleurs_16x16_266
+  - first:
+      213: 1171988846350875640
+    second: TileFleurs_16x16_267
+  - first:
+      213: 8060597210428105262
+    second: TileFleurs_16x16_268
+  - first:
+      213: 6027453788509207155
+    second: TileFleurs_16x16_269
+  - first:
+      213: 8713199766413480227
+    second: TileFleurs_16x16_270
+  - first:
+      213: 2346931238816917616
+    second: TileFleurs_16x16_271
+  - first:
+      213: 6215834392616725608
+    second: TileFleurs_16x16_272
+  - first:
+      213: 3619704146075058202
+    second: TileFleurs_16x16_273
+  - first:
+      213: -1507992171627054505
+    second: TileFleurs_16x16_274
+  - first:
+      213: -7323853943334333882
+    second: TileFleurs_16x16_275
+  - first:
+      213: 6853572829159961689
+    second: TileFleurs_16x16_276
+  - first:
+      213: 6169988014774619651
+    second: TileFleurs_16x16_277
+  - first:
+      213: 6922865273043427361
+    second: TileFleurs_16x16_278
+  - first:
+      213: 7909265842107374554
+    second: TileFleurs_16x16_279
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileFleurs_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 328
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250216229d1bc9e20800000000000000
+      internalID: 3358754968254357586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb9b5e2745b50190800000000000000
+      internalID: -7996786246001386570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 328
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2134c5130cb71a4a0800000000000000
+      internalID: -6583845114846887150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 328
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df8bbcc6bf0100d0800000000000000
+      internalID: -3458465761050521642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 328
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb521e4577c09e780800000000000000
+      internalID: -8653371502351014469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c478eb87be56fdf50800000000000000
+      internalID: 6908352415427102540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6419c317a1d24ea20800000000000000
+      internalID: 3090644835875197254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c64cb30bbf0880800000000000000
+      internalID: -8642483535182642246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68d4cfe3e97e760800000000000000
+      internalID: 7487126898884839118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734c08af6cc621ba0800000000000000
+      internalID: -6119709341781015497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bbf81b20072bf00800000000000000
+      internalID: 1131089613294648134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7a1b9d7a2f353e0800000000000000
+      internalID: -2066041001307166788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb646f768beaf80800000000000000
+      internalID: -8093328723685229037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1487ec18794c11670800000000000000
+      internalID: 8507797326076475457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 328
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10d2f03fa3092030800000000000000
+      internalID: 3470309038841057307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 331
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cde094efffb1fd0800000000000000
+      internalID: -2370019311267947372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 331
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74362030a7cb49ad0800000000000000
+      internalID: -2696323044665564345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 331
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f6e82bd3dd0f490800000000000000
+      internalID: -7714422904627237000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 331
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1e86f9b14ce8820800000000000000
+      internalID: 2922488831127642544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 331
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f8c03a9432dc240800000000000000
+      internalID: 4813542375904022403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 312
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3ebbe9ab470fb70800000000000000
+      internalID: 8930766405951546307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 312
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc644e09699ba7b10800000000000000
+      internalID: 1980099042509866700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 312
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6e4e24e76f8ea70800000000000000
+      internalID: 8856599689372690139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 312
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05137604f739e8fe0800000000000000
+      internalID: -1184847477201227440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 312
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c859d01e2e71d89e0800000000000000
+      internalID: -1617610427950328436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db2f5705b4dc5150800000000000000
+      internalID: 5862794688907389908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca84ba1121789f0800000000000000
+      internalID: -466384169312146287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6933ca09db2c990800000000000000
+      internalID: -7367117611362707738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef3a2c34c2fadb00800000000000000
+      internalID: 854262003977043950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed79c2f9faf94e30800000000000000
+      internalID: 4488394455078501864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdadb03088059130800000000000000
+      internalID: 3572771226054929849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641d8cb262c127ab0800000000000000
+      internalID: -5011912485041024698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177806deff5849eb0800000000000000
+      internalID: -4713995575704385679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2113e560e7e1e7980800000000000000
+      internalID: -8539354316826332910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 312
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7b3b4b3f572990800000000000000
+      internalID: -7410849953544963295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 315
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311264209776176f0800000000000000
+      internalID: -688655498584121069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 315
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e1432cfc0eb25c0800000000000000
+      internalID: -4239047441318142374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 315
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d4ce7b8a7c774b0800000000000000
+      internalID: -5442662097199805181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 315
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e5d691d4f9791c0800000000000000
+      internalID: -4496950549418254767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 315
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d174e3405be845100800000000000000
+      internalID: 95858400193038109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103037738ce481400800000000000000
+      internalID: 295072397423477505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c33e66e9a190e70800000000000000
+      internalID: 9081819391202638936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bac903c272f97b0800000000000000
+      internalID: -5215406772724126926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e99946dc6bcf07b0800000000000000
+      internalID: -5255758571806025244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d348f63ad25e40800000000000000
+      internalID: 5643813212676936494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355f64ed86b196b90800000000000000
+      internalID: -7248231988056361645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739def9645aac180800000000000000
+      internalID: -9094274774771854472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac495808676f9380800000000000000
+      internalID: -8962331036929667933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f30cfb31f4683d0800000000000000
+      internalID: -3204787138587508965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a081dc92414f5a0800000000000000
+      internalID: -6488538993366922642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a39aba1880b4df30800000000000000
+      internalID: 4599495218062594977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997684a1df9325f0800000000000000
+      internalID: -782606187475076709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae913698cb9d1910800000000000000
+      internalID: 1809773911088406180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47cae5834999990800000000000000
+      internalID: -7378703544642407185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 296
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30f8bf6961a67c0800000000000000
+      internalID: -4077421674909203508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 299
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd8ebeaf42c32430800000000000000
+      internalID: 3757060161647054286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 299
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e64172b0ee3b4970800000000000000
+      internalID: 8740148636629944032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 299
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527bb6a653ec51490800000000000000
+      internalID: -7776082452771260635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 299
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af895a228bb6dd0800000000000000
+      internalID: -2491695509872772496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 299
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ccabfe11f3a82e0800000000000000
+      internalID: -2122814928082776998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d56bcc7d26564760800000000000000
+      internalID: 7441730187643545048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5811f345586222bc0800000000000000
+      internalID: -3809439980716093051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb822bbacaec0da0800000000000000
+      internalID: -5977144448983593992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9012906968fb9e640800000000000000
+      internalID: 5109825836992241929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4749c279b4232cd60800000000000000
+      internalID: 7908939195856229492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8f1b0cda1cd31d0800000000000000
+      internalID: -3369323994196870991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c057e0b4cb0b70800000000000000
+      internalID: 8866396555483070527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eef87b9368dff20800000000000000
+      internalID: 3458067671341330051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1e9b4335c87b5a0800000000000000
+      internalID: -6505576847718620677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9af23ca159608220800000000000000
+      internalID: 2486102793810803355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab35556a7f49760800000000000000
+      internalID: 7463862776227936850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e3825b40391dd0800000000000000
+      internalID: -2514925816844654738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e49a7afbb5f61f0800000000000000
+      internalID: -1049519309444264359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bfa19b7842b3610800000000000000
+      internalID: 1601914257805081434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 280
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6499cf6ac444242b0800000000000000
+      internalID: -5601839890485700282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301cc852b427bc1e0800000000000000
+      internalID: -2176520327825407741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f4aa09aa3247ca0800000000000000
+      internalID: -6020147586409017447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881059f7cc907b7d0800000000000000
+      internalID: -2902840660898545272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2a721ff1629f30800000000000000
+      internalID: 4580831519143766792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94a355ae3f4e6a90800000000000000
+      internalID: -7318825213950188386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a06cba9e05eb750800000000000000
+      internalID: 6322579891414239856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2912e2cffa8e510800000000000000
+      internalID: 1578705167033930494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b995eeab527280800000000000000
+      internalID: -9047067894699411004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8fd4e0f4b1b5040800000000000000
+      internalID: 4637330267664414906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52ea3baf109c3410800000000000000
+      internalID: 1458198845052346974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7589f59ce258d740800000000000000
+      internalID: 5176978947744302461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb46115f33d54c0800000000000000
+      internalID: -4297221341789766138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b378e60a5e8b30800000000000000
+      internalID: 4291466480646862688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f639104aebf0cedc0800000000000000
+      internalID: -3608491889960840337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2601f9543e2ab490800000000000000
+      internalID: -7729815008045890003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17e9def8a8708320800000000000000
+      internalID: 2558177255571973917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5b76b3256a756a0800000000000000
+      internalID: -6460512268325505611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd601deefc861bcf0800000000000000
+      internalID: -238294062999730467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53e9f4d3501a4620800000000000000
+      internalID: 2759035673959326559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c66097481ab9f80800000000000000
+      internalID: -8098701914557485980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 267
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8ec09f89c045a70800000000000000
+      internalID: 8814684221823838417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 267
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28e34b163e2c29b0800000000000000
+      internalID: -5103653467797067729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 267
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd467888c4605540800000000000000
+      internalID: 4994602799199571388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 267
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8599ff4c343e6cd0800000000000000
+      internalID: -2563053704282794612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 267
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93ca702066d5aa60800000000000000
+      internalID: 7684784047527740315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080b543c7b86e72f0800000000000000
+      internalID: -973225331001020288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 249
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a465a68b55856e5e0800000000000000
+      internalID: -1880718669191162294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 249
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87cef236d0c18f0800000000000000
+      internalID: -568564733298575169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 249
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b68a6dde8325fca0800000000000000
+      internalID: -5983837433384761674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 249
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec970e14068752b0800000000000000
+      internalID: -5595856659742745367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fea4b8eb42c9610800000000000000
+      internalID: 1629217566000606994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be01cadc42ea030800000000000000
+      internalID: 3507781625541880639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb85c298a2275850800000000000000
+      internalID: 6365594705723755484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea03b3a4f8f5af580800000000000000
+      internalID: -8792610253457117010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d694de305939c5a0800000000000000
+      internalID: -6500601570318313773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b911d3878f07b3f0800000000000000
+      internalID: -885221727048492621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd84d33346f9d20800000000000000
+      internalID: 3287456424238046418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42bdbe811b737b0800000000000000
+      internalID: -5244528520455314182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc15f082a0d095330800000000000000
+      internalID: 3700002906134499791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ab9ce01c0e7de10800000000000000
+      internalID: 2222492060912040591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab1e5ec49b9d4680800000000000000
+      internalID: -8769181836000748640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193f4c51fcb1eca40800000000000000
+      internalID: 5390276380246471569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc031f251bd2a40800000000000000
+      internalID: 5345123302550588250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba40b20df2cd7000800000000000000
+      internalID: 35398764016454330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30af0efb0010e21b0800000000000000
+      internalID: -5679600977336796669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4681636d011567e0800000000000000
+      internalID: -1772992129100839347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3914a8d47738f22b0800000000000000
+      internalID: -5607118462627724909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763768c9d77fcb850800000000000000
+      internalID: 6394257689828291431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc41281b320f14d60800000000000000
+      internalID: 7872837659712951503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95ce21f9ca1ce7c0800000000000000
+      internalID: -4040825311021054562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f83b209834db1400800000000000000
+      internalID: 296063539924908274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61248f831a5fb7130800000000000000
+      internalID: 3565713602788213270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac0dfe416ba54f00800000000000000
+      internalID: 1100474118387338412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2103744a631090800000000000000
+      internalID: -8064985665470649470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4203fb2a4e13df0e0800000000000000
+      internalID: -2234574982053154780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369bbac8d89501840800000000000000
+      internalID: 5192748834843507043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5ea5e86777d54f0800000000000000
+      internalID: -838382604542876221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e1d6349277ceb0800000000000000
+      internalID: -4699661705237370975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd9df586ac8a4c0800000000000000
+      internalID: -4275945296554763360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34727e7d43288de20800000000000000
+      internalID: 3375591084186347331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 235
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46778ffcb3b47f5b0800000000000000
+      internalID: -5334712513332742300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 235
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c017206f60178fef0800000000000000
+      internalID: -74185119140515572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 235
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a51519abfcab200800000000000000
+      internalID: 196697933952932405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 235
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a22490a994713d80800000000000000
+      internalID: -8272702837330009431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 235
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e761e8cb9d3201f80800000000000000
+      internalID: -8137965108580182402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 217
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a66259cd1a55be0800000000000000
+      internalID: -1489106133008881065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 217
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec030a32291f54a0800000000000000
+      internalID: -6602530893908996894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 217
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b62f4f167702090800000000000000
+      internalID: -8061312070388126874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 217
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb43e6ed8e1d5b0800000000000000
+      internalID: -5345235240682733930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 217
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad01e9bd644bc180800000000000000
+      internalID: -9094099784483926616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37680c99cfc13c20800000000000000
+      internalID: 3184554876340823870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe4b0a5140e16a70800000000000000
+      internalID: 8818576116656328379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd100743325aa940800000000000000
+      internalID: 5308145490997550513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158bfdf8bb6e2be0800000000000000
+      internalID: -1500143183588522730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69668d615e315ecb0800000000000000
+      internalID: -4835436750260640106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72b4fd0b8dffde0800000000000000
+      internalID: -1297079913487325203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba63de54c1f427df0800000000000000
+      internalID: -183997651917916501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1a56645acab9ee0800000000000000
+      internalID: -1253218245441904207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe864aa6437fc3e0800000000000000
+      internalID: -2031278159579148550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 216
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510920c3fab5b1c10800000000000000
+      internalID: 2025313265617375253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 219
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36cc7b24b90e2dd0800000000000000
+      internalID: -2509057272970426821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 219
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05e99679a53edd70800000000000000
+      internalID: 9069745701526299918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 219
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd469d485b340e7c0800000000000000
+      internalID: -4044158018481724197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 219
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dc95e51492c6cd0800000000000000
+      internalID: -2563628727148098152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 219
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb2890233b73d30800000000000000
+      internalID: 4411191387521989716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7bf709b7c7a2f80800000000000000
+      internalID: -8130549307116898324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b327ca2b9144eb0800000000000000
+      internalID: -4736632652898878601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade6b359660eef770800000000000000
+      internalID: 8646595065792917210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ddf2786d14ed810800000000000000
+      internalID: 1791942091386903849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086711911fb948070800000000000000
+      internalID: 8107776688983733888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa1d3d9cbe82e3e0800000000000000
+      internalID: -2025899941620278537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b27cf80db9d3ee0800000000000000
+      internalID: -1279695399035655318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4f4ddbf5e4e5ee0800000000000000
+      internalID: -1270491871758191391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a927c4a921937f0800000000000000
+      internalID: -632453818752001533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0e65f6ceec520a0800000000000000
+      internalID: -6906886938627219246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8f7a697cc92a3d0800000000000000
+      internalID: -3196820404439615254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dbf943e90e17a90800000000000000
+      internalID: -7317820949408006834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0043702b8fc4ada0800000000000000
+      internalID: -5934390212515643379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f282d7e22d0efd600800000000000000
+      internalID: 495361677361752111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2406a6681077c0800000000000000
+      internalID: -4075730833619276372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2273ee9a0072dc0800000000000000
+      internalID: -3663959041996545300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b671ebb450df13ed0800000000000000
+      internalID: -2435887724243314837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3dd91c8bed68080800000000000000
+      internalID: -9185409504871853083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f445f77593b0d740800000000000000
+      internalID: 5174833426392761585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63de2bf16c2486620800000000000000
+      internalID: 2767535389721947446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed343e8e6e62739b0800000000000000
+      internalID: -5100565279782255650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5aa2dc327a99730800000000000000
+      internalID: 4006417115730585042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c8f4ac04fd2680800000000000000
+      internalID: -8778091763530676382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0059523320b511b90800000000000000
+      internalID: -7272931858220477184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e5817218a1574a0800000000000000
+      internalID: -6596336937205211500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81667165dc360020800000000000000
+      internalID: 2307598746234806666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fd991585fb4b5a0800000000000000
+      internalID: -6506365175596458190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41e896bd44fc9dd0800000000000000
+      internalID: -2477837080347483829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f32216f957ed20800000000000000
+      internalID: 3307711364728091353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ecda8227951b080800000000000000
+      internalID: -9173452619133366738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001aedb7202c7330800000000000000
+      internalID: 3709875548108492809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_191
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb6d02c87fb40f90800000000000000
+      internalID: -6988250196399526985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_192
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be8f7c3a6aaf6350800000000000000
+      internalID: 6012211400821149366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_193
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816e7c0c1b0214bb0800000000000000
+      internalID: -4953642167315208680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_194
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ccc648b92e6220800000000000000
+      internalID: 2480966316166269305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_195
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8eebf6a89e85680800000000000000
+      internalID: -8765999893887129428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_196
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb74fa83c6a0c90d0800000000000000
+      internalID: -3414842957529921605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_197
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c3469c5e644ff0800000000000000
+      internalID: -52795951684533737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_198
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9052abc33f540e0800000000000000
+      internalID: -2286153793674081839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_199
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e626d576b1952810800000000000000
+      internalID: 1739957043895609060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_200
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8237617a8ceaac0800000000000000
+      internalID: -3841912812138714933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_201
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeda9c92cfe983800800000000000000
+      internalID: 592398156869250538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ab18cee5f046580800000000000000
+      internalID: -8834919668624803295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_203
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d95e81c9617dd0800000000000000
+      internalID: -2490092838921318211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_204
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929f0c5b2ec44f090800000000000000
+      internalID: -8001686101334886103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_205
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea858097476db580800000000000000
+      internalID: -8809771739001812253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_206
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a98827931ba6bf0800000000000000
+      internalID: -330256762365502821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_207
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012691e89622512b0800000000000000
+      internalID: -5614543523696516592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_208
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0522cecf9ee43a10800000000000000
+      internalID: 1888396513911121166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_209
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20eb035bc8aa6c00800000000000000
+      internalID: 894713067211579435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_210
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ad477769886b50800000000000000
+      internalID: 6586665532505563848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_211
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0461cd456f83e2a0800000000000000
+      internalID: -6709361354592918517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_212
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08da3720b296ab90800000000000000
+      internalID: -7230930866426685427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_213
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba2f31e23b374500800000000000000
+      internalID: 380337783249513145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_214
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01334ca4cd86a1e60800000000000000
+      internalID: 7933768988923015952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_215
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34a346f88c17f090800000000000000
+      internalID: -8000894838427638723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_216
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726b9987643e658a0800000000000000
+      internalID: -6316611535529986521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_217
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964cb2563ec126690800000000000000
+      internalID: -7610488657322195863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_218
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 152
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de8861dce67509f0800000000000000
+      internalID: -502865023884292400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_219
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d48de2b7b2c303b0800000000000000
+      internalID: -5547376221753604906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_220
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d3f145c93aa2f0800000000000000
+      internalID: -960892051112340427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_221
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5287844a50ec110800000000000000
+      internalID: 1282969146995779018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_222
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124620222ba902b10800000000000000
+      internalID: 1954732328144233505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_223
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3a3813b8797b700800000000000000
+      internalID: 556079703090504674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_224
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccf1d6ea1cd359b0800000000000000
+      internalID: -5092484745526117182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_225
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15447fe7766271b0800000000000000
+      internalID: -5660349116346776292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_226
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e66b633f30f58080800000000000000
+      internalID: -9185671710715975965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_227
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f712f3e348127f0800000000000000
+      internalID: -639084269227901102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_228
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1907e54c1a254e4e0800000000000000
+      internalID: -1953345483634216815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_229
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23ae9fbd91032970800000000000000
+      internalID: 8728822279810491181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_230
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db95e01615a01d0800000000000000
+      internalID: -3383802692721066710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_231
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad7d999194e4a530800000000000000
+      internalID: 3865465694189354402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6a0b886a11a15b0800000000000000
+      internalID: -5396981796494596410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_233
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c893d2f1aa026ad90800000000000000
+      internalID: -7086941048581310068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_234
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82a6dea1160f9460800000000000000
+      internalID: 7250520598107300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_235
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d4e2d8989fbf6a0800000000000000
+      internalID: -6414258875084681869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_236
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f14fb9807f234c0800000000000000
+      internalID: -4309110277091877115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_237
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9764cd9c19baa4c60800000000000000
+      internalID: 7803237947018069625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_238
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b07f95de13a1a0800000000000000
+      internalID: -6799557109547485883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_239
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ed902e53bbaf810800000000000000
+      internalID: 1799956841187892847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_240
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa3e1ca1fbbda9c0800000000000000
+      internalID: -3914265854465918291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_241
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2defe8e5560b878f0800000000000000
+      internalID: -542489805673529646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_242
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa8d8004f6dcf360800000000000000
+      internalID: 7204869847355591334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_243
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e55049fe459da10800000000000000
+      internalID: 1934670902889635356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_244
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a302e0024e055dc80800000000000000
+      internalID: -8298637797639708614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_245
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c433f0177eefa890800000000000000
+      internalID: -7444469463867247420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_246
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403720a6b03986f80800000000000000
+      internalID: -8113073051475479804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_247
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c44fccb4c53d42c0800000000000000
+      internalID: -4445838138047249213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_248
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8ffa6656cca7d0800000000000000
+      internalID: -2905729585096193487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_249
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a7f1a3c7a1e2f30800000000000000
+      internalID: 4552605394171558551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_250
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95635874de8836fb0800000000000000
+      internalID: -4655727037082421671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_251
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba7d17849f9dc620800000000000000
+      internalID: 2796066403937778353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_252
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db37df2618765dd00800000000000000
+      internalID: 996816697941652413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_253
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f638ab9ba02d650800000000000000
+      internalID: 6256074625185443681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_254
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8129f0d28dca550800000000000000
+      internalID: 6173546877264468138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_255
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c99c2cabda81ba50800000000000000
+      internalID: 6535157210382375366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_256
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3315b1f21fe4cba90800000000000000
+      internalID: -7296870498462641869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_257
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9a60caf4569e530800000000000000
+      internalID: 3884747546446703054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_258
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dabd15d365493a60800000000000000
+      internalID: 7654225336772442841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_259
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bac41085a3e98f0800000000000000
+      internalID: -531923556329805000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_260
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f998758171f3470800000000000000
+      internalID: 8376439225247702890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_261
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00608b4941f1c6270800000000000000
+      internalID: 8244999191063430656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_262
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e831bac30a6ecb0800000000000000
+      internalID: -4835000967506981250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25d11b009252750800000000000000
+      internalID: 6279470338386252491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_264
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14b83c9f83997150800000000000000
+      internalID: 5870885834264720411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_265
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0d71d20fd17c4f0800000000000000
+      internalID: -808644690703822610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_266
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8dd4fe08d783aa0800000000000000
+      internalID: -6181052495841863515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_267
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbb67375adb34010800000000000000
+      internalID: 1171988846350875640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_268
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22621db47efcdf60800000000000000
+      internalID: 8060597210428105262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_269
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a7c2c2941d5a350800000000000000
+      internalID: 6027453788509207155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_270
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3219716e5018be870800000000000000
+      internalID: 8713199766413480227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_271
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07823f1f689f19020800000000000000
+      internalID: 2346931238816917616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_272
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c639a7274134650800000000000000
+      internalID: 6215834392616725608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_273
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1000da2eb5cb3230800000000000000
+      internalID: 3619704146075058202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_274
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a791e0c19821be0800000000000000
+      internalID: -1507992171627054505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_275
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64296b854a17c5a90800000000000000
+      internalID: -7323853943334333882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_276
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95439542d28cc1f50800000000000000
+      internalID: 6853572829159961689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_277
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e0f01d86330a550800000000000000
+      internalID: 6169988014774619651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_278
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 88
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12024a37945f21060800000000000000
+      internalID: 6922865273043427361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileFleurs_16x16_279
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 72
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbd0f8d06b53cd60800000000000000
+      internalID: 7909265842107374554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileFleurs_16x16_0: 3358754968254357586
+      TileFleurs_16x16_1: -7996786246001386570
+      TileFleurs_16x16_10: 1131089613294648134
+      TileFleurs_16x16_100: -973225331001020288
+      TileFleurs_16x16_101: -1880718669191162294
+      TileFleurs_16x16_102: -568564733298575169
+      TileFleurs_16x16_103: -5983837433384761674
+      TileFleurs_16x16_104: -5595856659742745367
+      TileFleurs_16x16_105: 1629217566000606994
+      TileFleurs_16x16_106: 3507781625541880639
+      TileFleurs_16x16_107: 6365594705723755484
+      TileFleurs_16x16_108: -8792610253457117010
+      TileFleurs_16x16_109: -6500601570318313773
+      TileFleurs_16x16_11: -2066041001307166788
+      TileFleurs_16x16_110: -885221727048492621
+      TileFleurs_16x16_111: 3287456424238046418
+      TileFleurs_16x16_112: -5244528520455314182
+      TileFleurs_16x16_113: 3700002906134499791
+      TileFleurs_16x16_114: 2222492060912040591
+      TileFleurs_16x16_115: -8769181836000748640
+      TileFleurs_16x16_116: 5390276380246471569
+      TileFleurs_16x16_117: 5345123302550588250
+      TileFleurs_16x16_118: 35398764016454330
+      TileFleurs_16x16_119: -5679600977336796669
+      TileFleurs_16x16_12: -8093328723685229037
+      TileFleurs_16x16_120: -1772992129100839347
+      TileFleurs_16x16_121: -5607118462627724909
+      TileFleurs_16x16_122: 6394257689828291431
+      TileFleurs_16x16_123: 7872837659712951503
+      TileFleurs_16x16_124: -4040825311021054562
+      TileFleurs_16x16_125: 296063539924908274
+      TileFleurs_16x16_126: 3565713602788213270
+      TileFleurs_16x16_127: 1100474118387338412
+      TileFleurs_16x16_128: -8064985665470649470
+      TileFleurs_16x16_129: -2234574982053154780
+      TileFleurs_16x16_13: 8507797326076475457
+      TileFleurs_16x16_130: 5192748834843507043
+      TileFleurs_16x16_131: -838382604542876221
+      TileFleurs_16x16_132: -4699661705237370975
+      TileFleurs_16x16_133: -4275945296554763360
+      TileFleurs_16x16_134: 3375591084186347331
+      TileFleurs_16x16_135: -5334712513332742300
+      TileFleurs_16x16_136: -74185119140515572
+      TileFleurs_16x16_137: 196697933952932405
+      TileFleurs_16x16_138: -8272702837330009431
+      TileFleurs_16x16_139: -8137965108580182402
+      TileFleurs_16x16_14: 3470309038841057307
+      TileFleurs_16x16_140: -1489106133008881065
+      TileFleurs_16x16_141: -6602530893908996894
+      TileFleurs_16x16_142: -8061312070388126874
+      TileFleurs_16x16_143: -5345235240682733930
+      TileFleurs_16x16_144: -9094099784483926616
+      TileFleurs_16x16_145: 3184554876340823870
+      TileFleurs_16x16_146: 8818576116656328379
+      TileFleurs_16x16_147: 5308145490997550513
+      TileFleurs_16x16_148: -1500143183588522730
+      TileFleurs_16x16_149: -4835436750260640106
+      TileFleurs_16x16_15: -2370019311267947372
+      TileFleurs_16x16_150: -1297079913487325203
+      TileFleurs_16x16_151: -183997651917916501
+      TileFleurs_16x16_152: -1253218245441904207
+      TileFleurs_16x16_153: -2031278159579148550
+      TileFleurs_16x16_154: 2025313265617375253
+      TileFleurs_16x16_155: -2509057272970426821
+      TileFleurs_16x16_156: 9069745701526299918
+      TileFleurs_16x16_157: -4044158018481724197
+      TileFleurs_16x16_158: -2563628727148098152
+      TileFleurs_16x16_159: 4411191387521989716
+      TileFleurs_16x16_16: -2696323044665564345
+      TileFleurs_16x16_160: -8130549307116898324
+      TileFleurs_16x16_161: -4736632652898878601
+      TileFleurs_16x16_162: 8646595065792917210
+      TileFleurs_16x16_163: 1791942091386903849
+      TileFleurs_16x16_164: 8107776688983733888
+      TileFleurs_16x16_165: -2025899941620278537
+      TileFleurs_16x16_166: -1279695399035655318
+      TileFleurs_16x16_167: -1270491871758191391
+      TileFleurs_16x16_168: -632453818752001533
+      TileFleurs_16x16_169: -6906886938627219246
+      TileFleurs_16x16_17: -7714422904627237000
+      TileFleurs_16x16_170: -3196820404439615254
+      TileFleurs_16x16_171: -7317820949408006834
+      TileFleurs_16x16_172: -5934390212515643379
+      TileFleurs_16x16_173: 495361677361752111
+      TileFleurs_16x16_174: -4075730833619276372
+      TileFleurs_16x16_175: -3663959041996545300
+      TileFleurs_16x16_176: -2435887724243314837
+      TileFleurs_16x16_177: -9185409504871853083
+      TileFleurs_16x16_178: 5174833426392761585
+      TileFleurs_16x16_179: 2767535389721947446
+      TileFleurs_16x16_18: 2922488831127642544
+      TileFleurs_16x16_180: -5100565279782255650
+      TileFleurs_16x16_181: 4006417115730585042
+      TileFleurs_16x16_182: -8778091763530676382
+      TileFleurs_16x16_183: -7272931858220477184
+      TileFleurs_16x16_184: -6596336937205211500
+      TileFleurs_16x16_185: 2307598746234806666
+      TileFleurs_16x16_186: -6506365175596458190
+      TileFleurs_16x16_187: -2477837080347483829
+      TileFleurs_16x16_188: 3307711364728091353
+      TileFleurs_16x16_189: -9173452619133366738
+      TileFleurs_16x16_19: 4813542375904022403
+      TileFleurs_16x16_190: 3709875548108492809
+      TileFleurs_16x16_191: -6988250196399526985
+      TileFleurs_16x16_192: 6012211400821149366
+      TileFleurs_16x16_193: -4953642167315208680
+      TileFleurs_16x16_194: 2480966316166269305
+      TileFleurs_16x16_195: -8765999893887129428
+      TileFleurs_16x16_196: -3414842957529921605
+      TileFleurs_16x16_197: -52795951684533737
+      TileFleurs_16x16_198: -2286153793674081839
+      TileFleurs_16x16_199: 1739957043895609060
+      TileFleurs_16x16_2: -6583845114846887150
+      TileFleurs_16x16_20: 8930766405951546307
+      TileFleurs_16x16_200: -3841912812138714933
+      TileFleurs_16x16_201: 592398156869250538
+      TileFleurs_16x16_202: -8834919668624803295
+      TileFleurs_16x16_203: -2490092838921318211
+      TileFleurs_16x16_204: -8001686101334886103
+      TileFleurs_16x16_205: -8809771739001812253
+      TileFleurs_16x16_206: -330256762365502821
+      TileFleurs_16x16_207: -5614543523696516592
+      TileFleurs_16x16_208: 1888396513911121166
+      TileFleurs_16x16_209: 894713067211579435
+      TileFleurs_16x16_21: 1980099042509866700
+      TileFleurs_16x16_210: 6586665532505563848
+      TileFleurs_16x16_211: -6709361354592918517
+      TileFleurs_16x16_212: -7230930866426685427
+      TileFleurs_16x16_213: 380337783249513145
+      TileFleurs_16x16_214: 7933768988923015952
+      TileFleurs_16x16_215: -8000894838427638723
+      TileFleurs_16x16_216: -6316611535529986521
+      TileFleurs_16x16_217: -7610488657322195863
+      TileFleurs_16x16_218: -502865023884292400
+      TileFleurs_16x16_219: -5547376221753604906
+      TileFleurs_16x16_22: 8856599689372690139
+      TileFleurs_16x16_220: -960892051112340427
+      TileFleurs_16x16_221: 1282969146995779018
+      TileFleurs_16x16_222: 1954732328144233505
+      TileFleurs_16x16_223: 556079703090504674
+      TileFleurs_16x16_224: -5092484745526117182
+      TileFleurs_16x16_225: -5660349116346776292
+      TileFleurs_16x16_226: -9185671710715975965
+      TileFleurs_16x16_227: -639084269227901102
+      TileFleurs_16x16_228: -1953345483634216815
+      TileFleurs_16x16_229: 8728822279810491181
+      TileFleurs_16x16_23: -1184847477201227440
+      TileFleurs_16x16_230: -3383802692721066710
+      TileFleurs_16x16_231: 3865465694189354402
+      TileFleurs_16x16_232: -5396981796494596410
+      TileFleurs_16x16_233: -7086941048581310068
+      TileFleurs_16x16_234: 7250520598107300494
+      TileFleurs_16x16_235: -6414258875084681869
+      TileFleurs_16x16_236: -4309110277091877115
+      TileFleurs_16x16_237: 7803237947018069625
+      TileFleurs_16x16_238: -6799557109547485883
+      TileFleurs_16x16_239: 1799956841187892847
+      TileFleurs_16x16_24: -1617610427950328436
+      TileFleurs_16x16_240: -3914265854465918291
+      TileFleurs_16x16_241: -542489805673529646
+      TileFleurs_16x16_242: 7204869847355591334
+      TileFleurs_16x16_243: 1934670902889635356
+      TileFleurs_16x16_244: -8298637797639708614
+      TileFleurs_16x16_245: -7444469463867247420
+      TileFleurs_16x16_246: -8113073051475479804
+      TileFleurs_16x16_247: -4445838138047249213
+      TileFleurs_16x16_248: -2905729585096193487
+      TileFleurs_16x16_249: 4552605394171558551
+      TileFleurs_16x16_25: 5862794688907389908
+      TileFleurs_16x16_250: -4655727037082421671
+      TileFleurs_16x16_251: 2796066403937778353
+      TileFleurs_16x16_252: 996816697941652413
+      TileFleurs_16x16_253: 6256074625185443681
+      TileFleurs_16x16_254: 6173546877264468138
+      TileFleurs_16x16_255: 6535157210382375366
+      TileFleurs_16x16_256: -7296870498462641869
+      TileFleurs_16x16_257: 3884747546446703054
+      TileFleurs_16x16_258: 7654225336772442841
+      TileFleurs_16x16_259: -531923556329805000
+      TileFleurs_16x16_26: -466384169312146287
+      TileFleurs_16x16_260: 8376439225247702890
+      TileFleurs_16x16_261: 8244999191063430656
+      TileFleurs_16x16_262: -4835000967506981250
+      TileFleurs_16x16_263: 6279470338386252491
+      TileFleurs_16x16_264: 5870885834264720411
+      TileFleurs_16x16_265: -808644690703822610
+      TileFleurs_16x16_266: -6181052495841863515
+      TileFleurs_16x16_267: 1171988846350875640
+      TileFleurs_16x16_268: 8060597210428105262
+      TileFleurs_16x16_269: 6027453788509207155
+      TileFleurs_16x16_27: -7367117611362707738
+      TileFleurs_16x16_270: 8713199766413480227
+      TileFleurs_16x16_271: 2346931238816917616
+      TileFleurs_16x16_272: 6215834392616725608
+      TileFleurs_16x16_273: 3619704146075058202
+      TileFleurs_16x16_274: -1507992171627054505
+      TileFleurs_16x16_275: -7323853943334333882
+      TileFleurs_16x16_276: 6853572829159961689
+      TileFleurs_16x16_277: 6169988014774619651
+      TileFleurs_16x16_278: 6922865273043427361
+      TileFleurs_16x16_279: 7909265842107374554
+      TileFleurs_16x16_28: 854262003977043950
+      TileFleurs_16x16_29: 4488394455078501864
+      TileFleurs_16x16_3: -3458465761050521642
+      TileFleurs_16x16_30: 3572771226054929849
+      TileFleurs_16x16_31: -5011912485041024698
+      TileFleurs_16x16_32: -4713995575704385679
+      TileFleurs_16x16_33: -8539354316826332910
+      TileFleurs_16x16_34: -7410849953544963295
+      TileFleurs_16x16_35: -688655498584121069
+      TileFleurs_16x16_36: -4239047441318142374
+      TileFleurs_16x16_37: -5442662097199805181
+      TileFleurs_16x16_38: -4496950549418254767
+      TileFleurs_16x16_39: 95858400193038109
+      TileFleurs_16x16_4: -8653371502351014469
+      TileFleurs_16x16_40: 295072397423477505
+      TileFleurs_16x16_41: 9081819391202638936
+      TileFleurs_16x16_42: -5215406772724126926
+      TileFleurs_16x16_43: -5255758571806025244
+      TileFleurs_16x16_44: 5643813212676936494
+      TileFleurs_16x16_45: -7248231988056361645
+      TileFleurs_16x16_46: -9094274774771854472
+      TileFleurs_16x16_47: -8962331036929667933
+      TileFleurs_16x16_48: -3204787138587508965
+      TileFleurs_16x16_49: -6488538993366922642
+      TileFleurs_16x16_5: 6908352415427102540
+      TileFleurs_16x16_50: 4599495218062594977
+      TileFleurs_16x16_51: -782606187475076709
+      TileFleurs_16x16_52: 1809773911088406180
+      TileFleurs_16x16_53: -7378703544642407185
+      TileFleurs_16x16_54: -4077421674909203508
+      TileFleurs_16x16_55: 3757060161647054286
+      TileFleurs_16x16_56: 8740148636629944032
+      TileFleurs_16x16_57: -7776082452771260635
+      TileFleurs_16x16_58: -2491695509872772496
+      TileFleurs_16x16_59: -2122814928082776998
+      TileFleurs_16x16_6: 3090644835875197254
+      TileFleurs_16x16_60: 7441730187643545048
+      TileFleurs_16x16_61: -3809439980716093051
+      TileFleurs_16x16_62: -5977144448983593992
+      TileFleurs_16x16_63: 5109825836992241929
+      TileFleurs_16x16_64: 7908939195856229492
+      TileFleurs_16x16_65: -3369323994196870991
+      TileFleurs_16x16_66: 8866396555483070527
+      TileFleurs_16x16_67: 3458067671341330051
+      TileFleurs_16x16_68: -6505576847718620677
+      TileFleurs_16x16_69: 2486102793810803355
+      TileFleurs_16x16_7: -8642483535182642246
+      TileFleurs_16x16_70: 7463862776227936850
+      TileFleurs_16x16_71: -2514925816844654738
+      TileFleurs_16x16_72: -1049519309444264359
+      TileFleurs_16x16_73: 1601914257805081434
+      TileFleurs_16x16_74: -5601839890485700282
+      TileFleurs_16x16_75: -2176520327825407741
+      TileFleurs_16x16_76: -6020147586409017447
+      TileFleurs_16x16_77: -2902840660898545272
+      TileFleurs_16x16_78: 4580831519143766792
+      TileFleurs_16x16_79: -7318825213950188386
+      TileFleurs_16x16_8: 7487126898884839118
+      TileFleurs_16x16_80: 6322579891414239856
+      TileFleurs_16x16_81: 1578705167033930494
+      TileFleurs_16x16_82: -9047067894699411004
+      TileFleurs_16x16_83: 4637330267664414906
+      TileFleurs_16x16_84: 1458198845052346974
+      TileFleurs_16x16_85: 5176978947744302461
+      TileFleurs_16x16_86: -4297221341789766138
+      TileFleurs_16x16_87: 4291466480646862688
+      TileFleurs_16x16_88: -3608491889960840337
+      TileFleurs_16x16_89: -7729815008045890003
+      TileFleurs_16x16_9: -6119709341781015497
+      TileFleurs_16x16_90: 2558177255571973917
+      TileFleurs_16x16_91: -6460512268325505611
+      TileFleurs_16x16_92: -238294062999730467
+      TileFleurs_16x16_93: 2759035673959326559
+      TileFleurs_16x16_94: -8098701914557485980
+      TileFleurs_16x16_95: 8814684221823838417
+      TileFleurs_16x16_96: -5103653467797067729
+      TileFleurs_16x16_97: 4994602799199571388
+      TileFleurs_16x16_98: -2563053704282794612
+      TileFleurs_16x16_99: 7684784047527740315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
