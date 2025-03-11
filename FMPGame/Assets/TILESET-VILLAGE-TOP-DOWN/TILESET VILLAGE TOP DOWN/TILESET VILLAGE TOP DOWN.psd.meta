@@ -1,0 +1,7017 @@
+fileFormatVersion: 2
+guid: ac55646058a8ea5459b2223eb6dd1973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4310662636233499089
+    second: TILESET VILLAGE TOP DOWN_0
+  - first:
+      213: -5365948084897010431
+    second: TILESET VILLAGE TOP DOWN_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_107
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef3228b8706d2f42a21c449bc287421
+      internalID: -328153709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc27f11bb68764b817de20c6af6905
+      internalID: 1469509709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a00e5ffab0fdc4493e88178400ab26
+      internalID: 946341661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_128
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57202797845a11f42a7e38afb479ab32
+      internalID: -1712129328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_129
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047f0273427e1024db5ce76934e6925a
+      internalID: 646265174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_130
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704ddf2b44ab5534a8a8aabc7c3bd6b1
+      internalID: -806648574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_140
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c0533fb43c4347a0d381b61be640f
+      internalID: 763342970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_141
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc211f9a4002d44f87e81611ce3515d
+      internalID: 178639470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_142
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d693d5a64d86a13419b4f86eb1700bb5
+      internalID: 270091795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_157
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613d70eb77b83b04b92e08145b82c6e3
+      internalID: 951674435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac89febd1278464ca733916d9b43a41
+      internalID: -2089810373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_159
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d420a865bb7e35468910d046d490fe7
+      internalID: -1973317702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_181
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbccbbdb3245b0348b274c98ecf83825
+      internalID: 1610890374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_182
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2406e32ffd676449096b1bcb1e5f77
+      internalID: 890054257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_183
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9af626c58e3244793f721ca1b55934
+      internalID: 1286831181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_205
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9142bfb6d7404fa469acb179311ae1c8
+      internalID: 54547813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_206
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc5e43761fc244592b43c96763db6a
+      internalID: 872549117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_207
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d325d9286a4484bb52002ce1c7eab2
+      internalID: 308193373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_229
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed27bf437611044bb5445f6b478317c
+      internalID: -595927726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_230
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631766b03000b584ab4014f12f7cdede
+      internalID: 1690238517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_231
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e242adb38d593c4691a0fe110fce67b
+      internalID: 164647556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_253
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ef76e69cfdc845845b525a0c92a9a
+      internalID: -2066969247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_254
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c713efe066303341a0b9b631e9f6784
+      internalID: 1279183785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_255
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40ac199fe64bf48b01d2bf036a963b
+      internalID: -539980292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f50af4adc3cb8d459b8eaba55086926
+      internalID: -1529306033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_274
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf4b33f2ffea74f82dca0d4492a67e
+      internalID: 118509005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_275
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b005da8a26044180cee48f52725a7
+      internalID: -878424825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_276
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747af71f2b13c2946b4f72d722f832c4
+      internalID: -1673432603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_277
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5928ac32d68a0014b837aa042d53ca09
+      internalID: -1315563703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_278
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaede659b1b5847469bca67e8d471ca3
+      internalID: 1130638891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_279
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f885223c58234588f4016765a1378
+      internalID: -203445296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_280
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1baf5ec6b5c62c4dbd7893f24ffe8c8
+      internalID: -562121234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_281
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b425050aec758459fc0a5116cc3772
+      internalID: 1047825327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_282
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4bcb6aa172e64ca52cb3b9bf1b95d
+      internalID: -1321825462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_283
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6cf860c730854abddd8d64c9da519
+      internalID: -974541053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_284
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e84915d402552240a61e3c410da482b
+      internalID: -1082745268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_285
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ce03605c823e348879ac1af6974298
+      internalID: 261242313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_286
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa05a52eeaaf79a438ea348cc52c3cc3
+      internalID: 486807102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_287
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37804f667b1a9648a7595d1c2ea7d2b
+      internalID: -1596501831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_288
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7692f9064c165d438f897cb2027f6c3
+      internalID: 93157512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_289
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bbbbf5b71dcd5408b8fb92313d4253
+      internalID: -2015898786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_290
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ffa773d16437945ab1cad918b5be4f
+      internalID: 275246322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_291
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8189f91a7f960b45bc271a53bbe6ed8
+      internalID: -1904861594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_292
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8df9b24922380459b4f7445d0fcfe5
+      internalID: -981350196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_293
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b662d2ace554d94a9a40aa42a4e2697
+      internalID: -1510113151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_294
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8186be19516a5fd4cb488190982e8331
+      internalID: 996993016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_295
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b3ea389a27c9429a6815aad168073
+      internalID: -1760243097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_296
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4142ba1287804f9dbd94c2d089ced
+      internalID: -906733029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_297
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421dfdd11ac00c34a979503069e87b06
+      internalID: -714518279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_298
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c5a97b0e1efd4eb78681aac164421
+      internalID: 321189807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_299
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a0e5abd5f361948adf2eea8e203857
+      internalID: 787569131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_300
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0cf34e8e89c84a9adc880e95497bf
+      internalID: -84913522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_301
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b820212d26ec4db9f76d5711bf58e
+      internalID: -2058470264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_302
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08047acc771d0c44f8620fa272f42fc2
+      internalID: -882350189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_303
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59b34cda1123aa488f5f3e282c846e0
+      internalID: -531658552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_304
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ef843b78a62d4eb8b4bc7ac6e7e60
+      internalID: -1511266257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_305
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b22febe65015e4294cdc4fe850dd7d
+      internalID: -550069523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_306
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b942fd3670e9f40af828f103bcf12f
+      internalID: 1302276652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_307
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a34280f8742c4cb6448d8b1b34c76
+      internalID: -1758645275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_308
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dab1ecaf9c5074bac5c98c2db6ef77
+      internalID: 707371607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_309
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa47e3c4d8fe21a4d9dcfc442c0f52db
+      internalID: -1289375580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_310
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0038790439c4b64ba57abde6d9ce90f
+      internalID: -1094315477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_311
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011e3b03fed0d74c92da528a00b029f
+      internalID: 1329771373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_312
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6454d49c6add93419d34b3d268efee8
+      internalID: 2021504018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_313
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138cb46212c62940a12bf77cae6bcd2
+      internalID: 528829132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_314
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd25088c6d5f047abd39c0ac0fd57d
+      internalID: -1138187375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_315
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1497168412144187f50afb88d052c
+      internalID: -975777448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_316
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec550f7318c5442970d8b31a79ae9c
+      internalID: -1030921074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_317
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5afb61854aad4a99d301befcab95c
+      internalID: -90109161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_318
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e049abf91402c44b535967e3eabe5a
+      internalID: 2025291937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_319
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cacc7e06172034e92bcf10fb43ba6c
+      internalID: 1735667751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_320
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eb6a9b5bc831742ac5801cbaf80379
+      internalID: 992811883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_321
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3729685df1084f845113d80bb4173
+      internalID: -1947212219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_322
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c02b79b9011846b56f7457952c361
+      internalID: 1180833016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_323
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c032b54e182b2438f23dcae52dc5ed
+      internalID: -1420628225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_324
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991585e02f9a454c960e84c2388f469
+      internalID: -981439061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_325
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389fe0b910fdf414899ff38bc0e26939
+      internalID: -12098318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_326
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e950bbea2016d48add6bbfe8c2cadb
+      internalID: -59560551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_327
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c729771929d82449399c20df55134c
+      internalID: -1111117090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_328
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da3694a820ffd40a40e7ec809eb6c1
+      internalID: 692026436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_329
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3980ff3406e50a4f8ca0cd6a685669d
+      internalID: 330618203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_330
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9e6062edb85244b8007b7a2f02e2b0
+      internalID: 228476313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_331
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0307f9fac1864154ab0b6dcf78ac661f
+      internalID: 701573769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_332
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7de83aa3bfe6445b44fef161ade2d4
+      internalID: -206579953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_333
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7c43cfc51dc141abed9f467dcde78
+      internalID: -748309885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_334
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102346d4996bf6409d10c7d4f9d61aa
+      internalID: -1256155425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_335
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44a2d5dcba46b41ace141f9653212b
+      internalID: -1185286200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_336
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0fd32ac97af704dae5f6b70d0bf588
+      internalID: 949612979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_337
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7108c291b743245ac47bef57f4032a
+      internalID: -1778899364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_338
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a92ff9fc4815b4d9ab9e5e60da08a6
+      internalID: 1269782824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_339
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4102942a5a09564d9761d2a93d7375f
+      internalID: 2122983444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_340
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272a765ae5ecf8418627d1925340622
+      internalID: -457340418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_341
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3625699c94e004eb507c2c7b890f43
+      internalID: 1608088818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_342
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac550b993370e074a92f8d8d7c8cd224
+      internalID: 981265468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_343
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c918ec9afdf85045b994b44f78a2a43
+      internalID: 1429853209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_344
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aa9a3556104bf4eb6d74d2dc52f90b
+      internalID: -954814594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_345
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd293318fb04bb94ab57a07088012939
+      internalID: 857678470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_346
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67db3dfbe6369ba4f86235a3c2648bec
+      internalID: 731985151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_347
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1d6788c647dfb4389eb762054c2ecc
+      internalID: 1531548149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_348
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda017b2b97ac442bf9273afa473338
+      internalID: -518664054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_349
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aff8823e5d91c41be05189cae8018d
+      internalID: -319650098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_350
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c38f87be3b583409771e46534c8cd2
+      internalID: 1843883609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_351
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f9fb35f0dbf84681828d82b85f22e
+      internalID: -1192567348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_352
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eafcb1f69e6e34caabc52418ad28eb
+      internalID: -1634740850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_353
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2722f43edb184fb6c1d8e0138bfd6
+      internalID: -462579510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_354
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128297889b38caa48a89918d0e1de090
+      internalID: -1890126628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_355
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bb551a9450914da0d9d638f285103
+      internalID: -1087608092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_356
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4391c07c1a5f6384d8f3bf9151421d41
+      internalID: 1669515721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_357
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471f8472ec416d44b4862d529ce28a5
+      internalID: 2096696726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_358
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13041401cd678f4eb0f2ca4056b6b3b
+      internalID: 1895713893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_359
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8307d2f922857c469a0e4ec481c3f94
+      internalID: 1587969120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_360
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e12878c6d9f9447b03da91661f437b
+      internalID: 1220023251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_361
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86170cb7469c7f24384a3a1eabec9eeb
+      internalID: 1197783433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_362
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab6bf041fae944797743d7c3a916c3
+      internalID: 1284344857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_363
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e05d1e4906444e99be806965f3367
+      internalID: -201850778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_364
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c49a4fefd81d0499a6521c27909407
+      internalID: -1151641032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_365
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a01f8fed6aee5348b2f5e4b44434d6b
+      internalID: -1210052080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_366
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe41794000ee748a59d57f00f46946
+      internalID: 1688102525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_367
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab25713b76fbc2438fd5d845dd3c7b4
+      internalID: 1939149390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_368
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e43aa9bb546c44ad5b7a150e8433a
+      internalID: 1153825854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_369
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36339572a4ac6b8418b3d47ebdf04ae9
+      internalID: 106424979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_370
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f577a91f9b0c4eb6ea0e11723ac4b
+      internalID: 1086395058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_371
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f752ce03704e349bc9a74e93c106ac
+      internalID: -1202271897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_372
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6bc297342c67478f01a35b5822ac8
+      internalID: 462288602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_373
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1728f5654cf700543b538f7434af5e4c
+      internalID: -1995332643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_374
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9166ab875dd87a46bfc3d305e0b0d64
+      internalID: -245070098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_375
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb148fa06ed5112478bf7e668733a4c7
+      internalID: 1509768675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_376
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d275ff58c42f342bbc6f70856b2a70
+      internalID: 889013719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_377
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbcfaf04ad595144a80caaa1958b856
+      internalID: 1289938142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_378
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e3f875bdd6834d8b74a7748b460f1
+      internalID: 270691199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_379
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e419afc9868d5b419a5b0473798823b
+      internalID: 1173871798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_380
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc24c0b541ea32e4eaa43148b380c972
+      internalID: -1421637946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_381
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89007033c59cde4f9a39bd2ece64810
+      internalID: 1401394520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_382
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a7d0e55283404f8bb75b7343610c7
+      internalID: -1662401929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_383
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc59d6501e01b4e98df37c34b5f890
+      internalID: -595356717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_384
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae082f0d90009b04591cc4daa84abde0
+      internalID: 283959864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_385
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aeb886f41d78243bf97895cc2b73bc
+      internalID: 690237118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_386
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ec1690548f194796cda7e1c9c658c
+      internalID: -273017023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_387
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7646721e3685b4c8d05239dfd698bc
+      internalID: -745971830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_388
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43734e4252529a418e2c7de876335ce
+      internalID: 2000012436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_389
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8c4a46998aef48a5188d52e112747
+      internalID: -66912336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_390
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae97c6ce83477d40a8f4672ffbb40ed
+      internalID: 378117877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_391
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96e1531416e6344898e2c82e11754b
+      internalID: -426129485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_392
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09297f24ca1f7c4b89d963aacb479f6
+      internalID: -1877589497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_393
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af95c7c8cc19c8d448ac0ae30ca56974
+      internalID: -293346630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_394
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9220db7a4a97494fb77eef5a4de02bb
+      internalID: 414382008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_395
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f8130676ab7e7498dedd8a83065bc9
+      internalID: 1035290877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_396
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df1d38f84fb7c4890f6c8e20dca2e2
+      internalID: -224559453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_397
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f034aeab7209aea48835f5f94c0baeed
+      internalID: -812950744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_398
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0bfa20e933e14096ad138afa69c0a
+      internalID: 602501313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_399
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eeaf9b362fcca4d9d33cc3f1ad873d
+      internalID: 141348149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_400
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51bce9e9fed9f4bbf7b572054273a4
+      internalID: 2121963741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_401
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1604886a41f6c1e4fa04d82b003fd9c6
+      internalID: 455842946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_402
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c850db0c1a8344392c4ced968e16e9
+      internalID: 1928409375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_403
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2ddd17e837b84f90303bd330e8059
+      internalID: -2060703419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_404
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4319ae1ac8600042bcefac746e9b047
+      internalID: 753726658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_405
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393cbdfc6cee9c4990dc3debc1bed51
+      internalID: 628035593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_406
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c268817562a8c4eae09b0f1c411b4c
+      internalID: 559414645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_407
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8e1506fa9f1048ae27bb75cff35f5
+      internalID: -853400750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_408
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b81f8e42a9d4940b31b636de84f613
+      internalID: -1353362866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_409
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bbe7196d0c1d9408202ca719cd12ac
+      internalID: -1810818300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_410
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0f267b9b6be14ca80678fe8b7e99b
+      internalID: -392571131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_411
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4777481fe1ece41b2507abe76aeff7
+      internalID: 1373511889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_412
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3b7d533f1af641972032e6d7db302
+      internalID: 661696854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_413
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed47e8315603446b2d0ac424e1f3b0
+      internalID: -363312810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_414
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ef0b762b721f4a9d543cd2851b397
+      internalID: -73028507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_415
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3bb4607bdc877459a9d50dfd99d94a
+      internalID: 85640129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_416
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eff5eb32e101b4a97af396dbb12153
+      internalID: -1064288046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_417
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1008cc7c817ef47a31cc21efffbf74
+      internalID: -1320981691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_418
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc0cc45e2589974db331a3d64300426
+      internalID: 931132146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_419
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22c5ebdc1bc6544afe1aec3eb82f89
+      internalID: 1448665153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_420
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a2ee41661f5c84a9d1d543742b556a
+      internalID: -1480666224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_421
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0fbdd41ba027e469f1df7670964cba
+      internalID: 857367506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_422
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20a2334d4a925843812d8798efa796b
+      internalID: 1553594948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_423
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83261fb73a080eb4f9d0aa9d2799d981
+      internalID: 414417362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_424
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee1f05939a807458fe7e73898d203a
+      internalID: 462434958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_425
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177b3e33d8227b48b33ace3e428aae3
+      internalID: -630435135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_426
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3bfbbe2a986e14c9f63a16d0a70e2e
+      internalID: 1695023776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_427
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2f748da6c28f45b41137be59e77f3
+      internalID: 987023162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_428
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6ce8f73df2d7241a451e78363e700f
+      internalID: -1028866759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_429
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08245242151eb8948866847fafeaff72
+      internalID: -1755226901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_430
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5011ef79a5f91e249b7f04addfd04052
+      internalID: -1033678509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_431
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5782658dde6a5b64b93665151844025d
+      internalID: -666170614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_432
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc52cb447cc62b4fbb656b94d19bf3e
+      internalID: -1503285418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_433
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9b8dad3b3ae3f4cabc80c603838bc2
+      internalID: -1415476990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_434
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43a45e704267b4e995e59d30abc917
+      internalID: 982323600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_435
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8919bdb9a5dd7dd4881f2bdd5023fe50
+      internalID: 322621263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_436
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f10250969cdbc4881294839ad109c9
+      internalID: 306387904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_437
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a133d2b07e4844f85b250507491b70
+      internalID: 1568333349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_438
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e03b663effbf94b82bcb466f032d49
+      internalID: -1914077175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_439
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364aaa4d9bc0944e8474889a25b14b0
+      internalID: -1020028905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_440
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b754cfdc57300e4b90c82fb86babe71
+      internalID: 1669736492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_441
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439cbd2b69c63948b9897a00795ef07
+      internalID: 1767584448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_442
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c9ac15b4fd0904da09c4f80f09c0a0
+      internalID: -2047899605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_443
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc294fa6ab97414a8bc1e1d983590bd
+      internalID: 675530570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_444
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5178aac09609a040abcdbf19c88df8e
+      internalID: 525378235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_445
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4d586ccb9f99e42894422459c9938d
+      internalID: 1305602591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_446
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba3e000f699184b9930ac56041c4fc
+      internalID: 1307279797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_447
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ab10a77ae94f4a89d135d8e395e07
+      internalID: -2047223707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_448
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55ee4b0dcffb8940a4b42cd100082d6
+      internalID: 1208577411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_449
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7299b5cf2ac3be849bc72ad2a540c297
+      internalID: 61598294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_450
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31433aa2740724380db460ef775d7f
+      internalID: -88172398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_451
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dbef9b4f999c446a8634d6f45be404
+      internalID: -866127377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_452
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3c9c168e5a6e4a850eb44d967da9a
+      internalID: -433894146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_453
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05a58bb17a7a9347b24a08df2a79985
+      internalID: -283921399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_454
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f9c96b8e5a4448886ada520edff13
+      internalID: -1243816607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_455
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2546dcb8211b47459cbc75c03272201
+      internalID: 15305512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_456
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daecd117d06e144cbbc3bcb0291264b
+      internalID: -1959179696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_457
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58463f93ca42b6941a9e0635f6dd42c8
+      internalID: -150069401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_458
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0208c73d6b2b4f4296ed98fa8c2432c
+      internalID: -1030034396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_459
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4c7dca30ec384dbee1d68c4ca1cc7
+      internalID: 2099657724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_460
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8a9a0c21384584b9b18778718e9ec8
+      internalID: -390078808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_461
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8944f79da6a194d94b00bad73c8a32
+      internalID: -1269567289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_462
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf87b93fdb4be40bd1ceecdf2e5c9c
+      internalID: -861277736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_463
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9239f316e234a44449be8e2fd76f683c
+      internalID: 361872530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_464
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01178bfe26349b42b3cf8a0a18f87a9
+      internalID: 405587593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_465
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c82724f0b5b4d240943d56bac88538d
+      internalID: -1983989377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_466
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390328cf8d96984cbc5eaa9cd5c8764
+      internalID: -887453720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_467
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a110e5dbfff8084aa61cec4d13ce135
+      internalID: 1952807283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_468
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f3e96ecbff1b4bb02f1b235d9517e
+      internalID: 1897320932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_469
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd690d340c09b5b46861e766d6a328e8
+      internalID: -1086729776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_470
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f9a8820dd1814e859f1d5551bb1ea
+      internalID: 556595701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_471
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6497d6c7051fd4bb8bb68bce4ed3e9
+      internalID: -2072748952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_472
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f171c4c62bce0264dadaf8fdaf96d38a
+      internalID: 485113082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_473
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6686b07236935b34bbac7280c905ef43
+      internalID: -1523739338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_474
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec1a5d3fbd0e84fbd56070b791efe3
+      internalID: 1680919596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_475
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bab6cbf0329e664ead5112f34365790
+      internalID: -328428752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_476
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f156ff826b71d4194fb650393c4499
+      internalID: -1270177834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_477
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59a48393f32904e99b5b566f8412b6
+      internalID: -9894379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_478
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea0c261c603f844c897fe6af9688d9c
+      internalID: -1431891045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_479
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a681fa2060d134484acdd533f9bc6c
+      internalID: 775611050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_480
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7362cbb67f16c124e9bb929c72d4d025
+      internalID: 2029651149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_490
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0f9fbb035bff14bb877b5ba455f778
+      internalID: 1874088575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_491
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643663ec827cc64c8d7133a8687b97b
+      internalID: -388558876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_492
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25854f129ae29544bbe703db20d3eed6
+      internalID: 1413249774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_493
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44166b6fec1f94482db7065fde40b4
+      internalID: -1161335580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_494
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c648af6eac97046b5a555f691db09e
+      internalID: 1230254917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_495
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a224a8f47ade5f34bad76324d839ff4c
+      internalID: -90278801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_496
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486d2a1337d637a45b6e6cca40923405
+      internalID: -472058542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_497
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e0ffefe51813d42a52274b720d5adb
+      internalID: 1136889053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_498
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b932a769e1509147b720a84ff536ff8
+      internalID: 1659906006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_499
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87acceb637d8a134c99a49bacd9a9342
+      internalID: 2063247499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_500
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb4bba6e9b5cb43a35b770c6b8ef5b
+      internalID: 719215081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_501
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40048a1617a69aa419c7bd8f55fa920b
+      internalID: -713240315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_511
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55a57039dc46b48afb3d5a8f9bc6bd
+      internalID: 911499026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_512
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb433925640f6d148a8c7672e3dcd8e9
+      internalID: 813403100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_513
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51ab65831d5cd24f855adf2e1dc69c8
+      internalID: -149878894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_514
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c55a8f1844256140b3f7d3414451939
+      internalID: -349589120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_515
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63c28aeb86db304296be8bc4321d88f
+      internalID: -1214661382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_516
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e924b2311d834c845c2d3b684e259
+      internalID: -390183427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_517
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ca4283eb5f2b49905f99a1a02cabc
+      internalID: 510115648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_518
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2267139b5a0c0448986c483aae5564b
+      internalID: 1755298797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_519
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f1b4345b539541939d813dccf89b6
+      internalID: 1805198509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_520
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0609282b5ded904a8528283d44cd85b
+      internalID: -1025189817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_521
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77470d7c2c937b40ba7b3136daa18d4
+      internalID: -81771492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_522
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea3419799b90eb44bbee36fde7feb1c
+      internalID: -1195337680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_529
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1181d98a9f38524cab38d4797422a52
+      internalID: 614303228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35284600d0cf6488abae20fd9e03e5
+      internalID: 1807553750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506441c61b8f9464aba1dceb0d39be9f
+      internalID: 312105042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd06b5b419832314383d2865ba30becd
+      internalID: 1064063268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d98b8d5584c2ed4f940bee810eefa90
+      internalID: -342425328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ef701c6621db4e99cb3f92a97c5d2
+      internalID: 1128314561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab45c50d1a8c5b447aca341609d71377
+      internalID: 1622687680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a4791152f5bf14e849c569066c899b
+      internalID: -961932973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5318966d47fb04a8642be34d2a6eee
+      internalID: 196168366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6655da284768cc749a7d8a325f382d58
+      internalID: 1808344458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0e84ef9c7cac4d8fda35471d6c0e6
+      internalID: -1728822380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981890ced7ca8743921ace186552391
+      internalID: -440692251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bdf93e01348cb42bc2b32201ec7e4c
+      internalID: -1398629058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0845214c8a6b3234ab5df86fafdb8d9c
+      internalID: 1243060976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab24072864e6745998524868e96dc3
+      internalID: -1459027935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b0ab8c0ffd164582134d4b4ed6010
+      internalID: 1449964027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33eaab1bae49c49b34fd4ac831559b
+      internalID: -975506451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb428e3aaa877c14181465110449f8d5
+      internalID: 133540963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7623f765084e444acec6c39cd76311
+      internalID: -889978152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7f11fa18650c4285912d9785cf5f4
+      internalID: -714188583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf80a4941dfd442aac771d4e81cf40
+      internalID: -148468804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d274930602ed364dac0acd6edc34964
+      internalID: -1003098418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf24f33e4ba73b46891d73169e6f67f
+      internalID: -758062538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61436fbb530a56941b66274ac1b08679
+      internalID: -1187166310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60a6a2f3f0507d4e8728d114166d18a
+      internalID: -1409721490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360c0a169e300d428e245a2af0b4a5f
+      internalID: -677005013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc179aeab04a24d8c47ba92a0d4384
+      internalID: 2188426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67fb561841be5e409ecf607d783a501
+      internalID: 725468996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abba983a227b2794b9b871f079a99b64
+      internalID: -1112936424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5964029f564e844abc03401eff2c15d
+      internalID: 847959543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ca74a9c9fb1e41bebd07ce789ed65
+      internalID: 1684239449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET VILLAGE TOP DOWN_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10fc700d49dcad4f8e113a1dc9e05ee
+      internalID: -442885235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7cd8e4733ac32334e9a2dc050eb6578b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TILESET VILLAGE TOP DOWN_0: 1064063268
+      TILESET VILLAGE TOP DOWN_1: -342425328
+      TILESET VILLAGE TOP DOWN_10: 1243060976
+      TILESET VILLAGE TOP DOWN_100: -367289271
+      TILESET VILLAGE TOP DOWN_101: 364315290
+      TILESET VILLAGE TOP DOWN_102: -878753967
+      TILESET VILLAGE TOP DOWN_103: -126852992
+      TILESET VILLAGE TOP DOWN_104: 951427666
+      TILESET VILLAGE TOP DOWN_105: -610224126
+      TILESET VILLAGE TOP DOWN_106: -268344563
+      TILESET VILLAGE TOP DOWN_107: -328153709
+      TILESET VILLAGE TOP DOWN_108: 1469509709
+      TILESET VILLAGE TOP DOWN_109: 946341661
+      TILESET VILLAGE TOP DOWN_11: -1459027935
+      TILESET VILLAGE TOP DOWN_110: -891276011
+      TILESET VILLAGE TOP DOWN_111: 977212978
+      TILESET VILLAGE TOP DOWN_112: -1600303564
+      TILESET VILLAGE TOP DOWN_113: -808941906
+      TILESET VILLAGE TOP DOWN_114: 1862727902
+      TILESET VILLAGE TOP DOWN_115: 1306840110
+      TILESET VILLAGE TOP DOWN_116: -604926820
+      TILESET VILLAGE TOP DOWN_117: 1310162022
+      TILESET VILLAGE TOP DOWN_118: -842648928
+      TILESET VILLAGE TOP DOWN_119: -2045675344
+      TILESET VILLAGE TOP DOWN_12: 1449964027
+      TILESET VILLAGE TOP DOWN_120: -1118692750
+      TILESET VILLAGE TOP DOWN_121: 111696487
+      TILESET VILLAGE TOP DOWN_122: -871016283
+      TILESET VILLAGE TOP DOWN_123: -1882567310
+      TILESET VILLAGE TOP DOWN_124: -1111342578
+      TILESET VILLAGE TOP DOWN_125: -995637020
+      TILESET VILLAGE TOP DOWN_126: -2009095110
+      TILESET VILLAGE TOP DOWN_127: -1495944110
+      TILESET VILLAGE TOP DOWN_128: -1712129328
+      TILESET VILLAGE TOP DOWN_129: 646265174
+      TILESET VILLAGE TOP DOWN_13: -975506451
+      TILESET VILLAGE TOP DOWN_130: -806648574
+      TILESET VILLAGE TOP DOWN_131: 1807553750
+      TILESET VILLAGE TOP DOWN_132: 312105042
+      TILESET VILLAGE TOP DOWN_133: 1226115682
+      TILESET VILLAGE TOP DOWN_134: -603814849
+      TILESET VILLAGE TOP DOWN_135: -1475699251
+      TILESET VILLAGE TOP DOWN_136: -92800429
+      TILESET VILLAGE TOP DOWN_137: -1006899167
+      TILESET VILLAGE TOP DOWN_138: 1709616955
+      TILESET VILLAGE TOP DOWN_139: 1449711173
+      TILESET VILLAGE TOP DOWN_14: 133540963
+      TILESET VILLAGE TOP DOWN_140: 763342970
+      TILESET VILLAGE TOP DOWN_141: 178639470
+      TILESET VILLAGE TOP DOWN_142: 270091795
+      TILESET VILLAGE TOP DOWN_143: 1832329828
+      TILESET VILLAGE TOP DOWN_144: -527831821
+      TILESET VILLAGE TOP DOWN_145: 1678725302
+      TILESET VILLAGE TOP DOWN_146: -1292268986
+      TILESET VILLAGE TOP DOWN_147: 1201068702
+      TILESET VILLAGE TOP DOWN_148: -758239955
+      TILESET VILLAGE TOP DOWN_149: 1565862576
+      TILESET VILLAGE TOP DOWN_15: -889978152
+      TILESET VILLAGE TOP DOWN_150: -208526886
+      TILESET VILLAGE TOP DOWN_151: 1385227408
+      TILESET VILLAGE TOP DOWN_152: 2037166680
+      TILESET VILLAGE TOP DOWN_153: -1192537776
+      TILESET VILLAGE TOP DOWN_154: 723570716
+      TILESET VILLAGE TOP DOWN_155: -1881174044
+      TILESET VILLAGE TOP DOWN_156: 192565107
+      TILESET VILLAGE TOP DOWN_157: 951674435
+      TILESET VILLAGE TOP DOWN_158: -2089810373
+      TILESET VILLAGE TOP DOWN_159: -1973317702
+      TILESET VILLAGE TOP DOWN_16: -714188583
+      TILESET VILLAGE TOP DOWN_160: -720701129
+      TILESET VILLAGE TOP DOWN_161: -1366040616
+      TILESET VILLAGE TOP DOWN_162: -1100202489
+      TILESET VILLAGE TOP DOWN_163: 1966840863
+      TILESET VILLAGE TOP DOWN_164: -2095023016
+      TILESET VILLAGE TOP DOWN_165: -2114609526
+      TILESET VILLAGE TOP DOWN_166: -449578686
+      TILESET VILLAGE TOP DOWN_167: 1479506769
+      TILESET VILLAGE TOP DOWN_168: -2012334729
+      TILESET VILLAGE TOP DOWN_169: -1555447951
+      TILESET VILLAGE TOP DOWN_17: -148468804
+      TILESET VILLAGE TOP DOWN_170: -932248494
+      TILESET VILLAGE TOP DOWN_171: 1432300793
+      TILESET VILLAGE TOP DOWN_172: -435137194
+      TILESET VILLAGE TOP DOWN_173: 280256167
+      TILESET VILLAGE TOP DOWN_174: 985631074
+      TILESET VILLAGE TOP DOWN_175: 60545724
+      TILESET VILLAGE TOP DOWN_176: -2108025832
+      TILESET VILLAGE TOP DOWN_177: 1402418118
+      TILESET VILLAGE TOP DOWN_178: -1699904238
+      TILESET VILLAGE TOP DOWN_179: 519306348
+      TILESET VILLAGE TOP DOWN_18: -1003098418
+      TILESET VILLAGE TOP DOWN_180: 304016277
+      TILESET VILLAGE TOP DOWN_181: 1610890374
+      TILESET VILLAGE TOP DOWN_182: 890054257
+      TILESET VILLAGE TOP DOWN_183: 1286831181
+      TILESET VILLAGE TOP DOWN_184: 1224550523
+      TILESET VILLAGE TOP DOWN_185: -515862950
+      TILESET VILLAGE TOP DOWN_186: -1303842136
+      TILESET VILLAGE TOP DOWN_187: -1585682181
+      TILESET VILLAGE TOP DOWN_188: -412936520
+      TILESET VILLAGE TOP DOWN_189: 1177189289
+      TILESET VILLAGE TOP DOWN_19: -758062538
+      TILESET VILLAGE TOP DOWN_190: 360977745
+      TILESET VILLAGE TOP DOWN_191: -1964638084
+      TILESET VILLAGE TOP DOWN_192: 418611507
+      TILESET VILLAGE TOP DOWN_193: 783753326
+      TILESET VILLAGE TOP DOWN_194: -1131632208
+      TILESET VILLAGE TOP DOWN_195: -1229949783
+      TILESET VILLAGE TOP DOWN_196: 991004335
+      TILESET VILLAGE TOP DOWN_197: 303761051
+      TILESET VILLAGE TOP DOWN_198: -489992180
+      TILESET VILLAGE TOP DOWN_199: -865492592
+      TILESET VILLAGE TOP DOWN_2: 1128314561
+      TILESET VILLAGE TOP DOWN_20: -1187166310
+      TILESET VILLAGE TOP DOWN_200: 1786869541
+      TILESET VILLAGE TOP DOWN_201: -630796866
+      TILESET VILLAGE TOP DOWN_202: -1100828197
+      TILESET VILLAGE TOP DOWN_203: -1146533723
+      TILESET VILLAGE TOP DOWN_204: 121355925
+      TILESET VILLAGE TOP DOWN_205: 54547813
+      TILESET VILLAGE TOP DOWN_206: 872549117
+      TILESET VILLAGE TOP DOWN_207: 308193373
+      TILESET VILLAGE TOP DOWN_208: 351415358
+      TILESET VILLAGE TOP DOWN_209: 539411505
+      TILESET VILLAGE TOP DOWN_21: -1409721490
+      TILESET VILLAGE TOP DOWN_210: -656101686
+      TILESET VILLAGE TOP DOWN_211: 1100140732
+      TILESET VILLAGE TOP DOWN_212: -1833615538
+      TILESET VILLAGE TOP DOWN_213: 915240993
+      TILESET VILLAGE TOP DOWN_214: -1147448448
+      TILESET VILLAGE TOP DOWN_215: -1876198985
+      TILESET VILLAGE TOP DOWN_216: 571880296
+      TILESET VILLAGE TOP DOWN_217: -1905185678
+      TILESET VILLAGE TOP DOWN_218: -1995412179
+      TILESET VILLAGE TOP DOWN_219: -1558558100
+      TILESET VILLAGE TOP DOWN_22: -677005013
+      TILESET VILLAGE TOP DOWN_220: 1451580026
+      TILESET VILLAGE TOP DOWN_221: -1994688057
+      TILESET VILLAGE TOP DOWN_222: 99855532
+      TILESET VILLAGE TOP DOWN_223: 334049677
+      TILESET VILLAGE TOP DOWN_224: 321971164
+      TILESET VILLAGE TOP DOWN_225: -578308910
+      TILESET VILLAGE TOP DOWN_226: -2038770072
+      TILESET VILLAGE TOP DOWN_227: 1080637918
+      TILESET VILLAGE TOP DOWN_228: 1714813112
+      TILESET VILLAGE TOP DOWN_229: -595927726
+      TILESET VILLAGE TOP DOWN_23: 2188426
+      TILESET VILLAGE TOP DOWN_230: 1690238517
+      TILESET VILLAGE TOP DOWN_231: 164647556
+      TILESET VILLAGE TOP DOWN_232: 1647574204
+      TILESET VILLAGE TOP DOWN_233: -298714566
+      TILESET VILLAGE TOP DOWN_234: 337988853
+      TILESET VILLAGE TOP DOWN_235: 678397270
+      TILESET VILLAGE TOP DOWN_236: -500917764
+      TILESET VILLAGE TOP DOWN_237: 1678974071
+      TILESET VILLAGE TOP DOWN_238: 1274423842
+      TILESET VILLAGE TOP DOWN_239: -289615412
+      TILESET VILLAGE TOP DOWN_24: 725468996
+      TILESET VILLAGE TOP DOWN_240: 1454490136
+      TILESET VILLAGE TOP DOWN_241: 288253694
+      TILESET VILLAGE TOP DOWN_242: -1353122165
+      TILESET VILLAGE TOP DOWN_243: 497191382
+      TILESET VILLAGE TOP DOWN_244: -688052857
+      TILESET VILLAGE TOP DOWN_245: 801603769
+      TILESET VILLAGE TOP DOWN_246: 912136374
+      TILESET VILLAGE TOP DOWN_247: 104544553
+      TILESET VILLAGE TOP DOWN_248: -1587809510
+      TILESET VILLAGE TOP DOWN_249: -426632289
+      TILESET VILLAGE TOP DOWN_25: -1112936424
+      TILESET VILLAGE TOP DOWN_250: -807195419
+      TILESET VILLAGE TOP DOWN_251: -1187542434
+      TILESET VILLAGE TOP DOWN_252: 1752190126
+      TILESET VILLAGE TOP DOWN_253: -2066969247
+      TILESET VILLAGE TOP DOWN_254: 1279183785
+      TILESET VILLAGE TOP DOWN_255: -539980292
+      TILESET VILLAGE TOP DOWN_256: -1529306033
+      TILESET VILLAGE TOP DOWN_257: -1881370478
+      TILESET VILLAGE TOP DOWN_258: 1230958801
+      TILESET VILLAGE TOP DOWN_259: -1104925296
+      TILESET VILLAGE TOP DOWN_26: 847959543
+      TILESET VILLAGE TOP DOWN_260: -852996745
+      TILESET VILLAGE TOP DOWN_261: -2062078371
+      TILESET VILLAGE TOP DOWN_262: 1178706883
+      TILESET VILLAGE TOP DOWN_263: 2036963777
+      TILESET VILLAGE TOP DOWN_264: -1832931464
+      TILESET VILLAGE TOP DOWN_265: 1814797395
+      TILESET VILLAGE TOP DOWN_266: 657084404
+      TILESET VILLAGE TOP DOWN_267: 124431421
+      TILESET VILLAGE TOP DOWN_268: 1294424997
+      TILESET VILLAGE TOP DOWN_269: -2023758803
+      TILESET VILLAGE TOP DOWN_27: 1684239449
+      TILESET VILLAGE TOP DOWN_270: -97983847
+      TILESET VILLAGE TOP DOWN_271: -843002379
+      TILESET VILLAGE TOP DOWN_272: 1913109786
+      TILESET VILLAGE TOP DOWN_273: 508381783
+      TILESET VILLAGE TOP DOWN_274: 118509005
+      TILESET VILLAGE TOP DOWN_275: -878424825
+      TILESET VILLAGE TOP DOWN_276: -1673432603
+      TILESET VILLAGE TOP DOWN_277: -1315563703
+      TILESET VILLAGE TOP DOWN_278: 1130638891
+      TILESET VILLAGE TOP DOWN_279: -203445296
+      TILESET VILLAGE TOP DOWN_28: -442885235
+      TILESET VILLAGE TOP DOWN_280: -562121234
+      TILESET VILLAGE TOP DOWN_281: 1047825327
+      TILESET VILLAGE TOP DOWN_282: -1321825462
+      TILESET VILLAGE TOP DOWN_283: -974541053
+      TILESET VILLAGE TOP DOWN_284: -1082745268
+      TILESET VILLAGE TOP DOWN_285: 261242313
+      TILESET VILLAGE TOP DOWN_286: 486807102
+      TILESET VILLAGE TOP DOWN_287: -1596501831
+      TILESET VILLAGE TOP DOWN_288: 93157512
+      TILESET VILLAGE TOP DOWN_289: -2015898786
+      TILESET VILLAGE TOP DOWN_29: 375119920
+      TILESET VILLAGE TOP DOWN_290: 275246322
+      TILESET VILLAGE TOP DOWN_291: -1904861594
+      TILESET VILLAGE TOP DOWN_292: -981350196
+      TILESET VILLAGE TOP DOWN_293: -1510113151
+      TILESET VILLAGE TOP DOWN_294: 996993016
+      TILESET VILLAGE TOP DOWN_295: -1760243097
+      TILESET VILLAGE TOP DOWN_296: -906733029
+      TILESET VILLAGE TOP DOWN_297: -714518279
+      TILESET VILLAGE TOP DOWN_298: 321189807
+      TILESET VILLAGE TOP DOWN_299: 787569131
+      TILESET VILLAGE TOP DOWN_3: 1622687680
+      TILESET VILLAGE TOP DOWN_30: -1038656294
+      TILESET VILLAGE TOP DOWN_300: -84913522
+      TILESET VILLAGE TOP DOWN_301: -2058470264
+      TILESET VILLAGE TOP DOWN_302: -882350189
+      TILESET VILLAGE TOP DOWN_303: -531658552
+      TILESET VILLAGE TOP DOWN_304: -1511266257
+      TILESET VILLAGE TOP DOWN_305: -550069523
+      TILESET VILLAGE TOP DOWN_306: 1302276652
+      TILESET VILLAGE TOP DOWN_307: -1758645275
+      TILESET VILLAGE TOP DOWN_308: 707371607
+      TILESET VILLAGE TOP DOWN_309: -1289375580
+      TILESET VILLAGE TOP DOWN_31: -1442084976
+      TILESET VILLAGE TOP DOWN_310: -1094315477
+      TILESET VILLAGE TOP DOWN_311: 1329771373
+      TILESET VILLAGE TOP DOWN_312: 2021504018
+      TILESET VILLAGE TOP DOWN_313: 528829132
+      TILESET VILLAGE TOP DOWN_314: -1138187375
+      TILESET VILLAGE TOP DOWN_315: -975777448
+      TILESET VILLAGE TOP DOWN_316: -1030921074
+      TILESET VILLAGE TOP DOWN_317: -90109161
+      TILESET VILLAGE TOP DOWN_318: 2025291937
+      TILESET VILLAGE TOP DOWN_319: 1735667751
+      TILESET VILLAGE TOP DOWN_32: 1214521430
+      TILESET VILLAGE TOP DOWN_320: 992811883
+      TILESET VILLAGE TOP DOWN_321: -1947212219
+      TILESET VILLAGE TOP DOWN_322: 1180833016
+      TILESET VILLAGE TOP DOWN_323: -1420628225
+      TILESET VILLAGE TOP DOWN_324: -981439061
+      TILESET VILLAGE TOP DOWN_325: -12098318
+      TILESET VILLAGE TOP DOWN_326: -59560551
+      TILESET VILLAGE TOP DOWN_327: -1111117090
+      TILESET VILLAGE TOP DOWN_328: 692026436
+      TILESET VILLAGE TOP DOWN_329: 330618203
+      TILESET VILLAGE TOP DOWN_33: 910330279
+      TILESET VILLAGE TOP DOWN_330: 228476313
+      TILESET VILLAGE TOP DOWN_331: 701573769
+      TILESET VILLAGE TOP DOWN_332: -206579953
+      TILESET VILLAGE TOP DOWN_333: -748309885
+      TILESET VILLAGE TOP DOWN_334: -1256155425
+      TILESET VILLAGE TOP DOWN_335: -1185286200
+      TILESET VILLAGE TOP DOWN_336: 949612979
+      TILESET VILLAGE TOP DOWN_337: -1778899364
+      TILESET VILLAGE TOP DOWN_338: 1269782824
+      TILESET VILLAGE TOP DOWN_339: 2122983444
+      TILESET VILLAGE TOP DOWN_34: 967678062
+      TILESET VILLAGE TOP DOWN_340: -457340418
+      TILESET VILLAGE TOP DOWN_341: 1608088818
+      TILESET VILLAGE TOP DOWN_342: 981265468
+      TILESET VILLAGE TOP DOWN_343: 1429853209
+      TILESET VILLAGE TOP DOWN_344: -954814594
+      TILESET VILLAGE TOP DOWN_345: 857678470
+      TILESET VILLAGE TOP DOWN_346: 731985151
+      TILESET VILLAGE TOP DOWN_347: 1531548149
+      TILESET VILLAGE TOP DOWN_348: -518664054
+      TILESET VILLAGE TOP DOWN_349: -319650098
+      TILESET VILLAGE TOP DOWN_35: 1980140621
+      TILESET VILLAGE TOP DOWN_350: 1843883609
+      TILESET VILLAGE TOP DOWN_351: -1192567348
+      TILESET VILLAGE TOP DOWN_352: -1634740850
+      TILESET VILLAGE TOP DOWN_353: -462579510
+      TILESET VILLAGE TOP DOWN_354: -1890126628
+      TILESET VILLAGE TOP DOWN_355: -1087608092
+      TILESET VILLAGE TOP DOWN_356: 1669515721
+      TILESET VILLAGE TOP DOWN_357: 2096696726
+      TILESET VILLAGE TOP DOWN_358: 1895713893
+      TILESET VILLAGE TOP DOWN_359: 1587969120
+      TILESET VILLAGE TOP DOWN_36: 1232006389
+      TILESET VILLAGE TOP DOWN_360: 1220023251
+      TILESET VILLAGE TOP DOWN_361: 1197783433
+      TILESET VILLAGE TOP DOWN_362: 1284344857
+      TILESET VILLAGE TOP DOWN_363: -201850778
+      TILESET VILLAGE TOP DOWN_364: -1151641032
+      TILESET VILLAGE TOP DOWN_365: -1210052080
+      TILESET VILLAGE TOP DOWN_366: 1688102525
+      TILESET VILLAGE TOP DOWN_367: 1939149390
+      TILESET VILLAGE TOP DOWN_368: 1153825854
+      TILESET VILLAGE TOP DOWN_369: 106424979
+      TILESET VILLAGE TOP DOWN_37: -96793505
+      TILESET VILLAGE TOP DOWN_370: 1086395058
+      TILESET VILLAGE TOP DOWN_371: -1202271897
+      TILESET VILLAGE TOP DOWN_372: 462288602
+      TILESET VILLAGE TOP DOWN_373: -1995332643
+      TILESET VILLAGE TOP DOWN_374: -245070098
+      TILESET VILLAGE TOP DOWN_375: 1509768675
+      TILESET VILLAGE TOP DOWN_376: 889013719
+      TILESET VILLAGE TOP DOWN_377: 1289938142
+      TILESET VILLAGE TOP DOWN_378: 270691199
+      TILESET VILLAGE TOP DOWN_379: 1173871798
+      TILESET VILLAGE TOP DOWN_38: 1724537150
+      TILESET VILLAGE TOP DOWN_380: -1421637946
+      TILESET VILLAGE TOP DOWN_381: 1401394520
+      TILESET VILLAGE TOP DOWN_382: -1662401929
+      TILESET VILLAGE TOP DOWN_383: -595356717
+      TILESET VILLAGE TOP DOWN_384: 283959864
+      TILESET VILLAGE TOP DOWN_385: 690237118
+      TILESET VILLAGE TOP DOWN_386: -273017023
+      TILESET VILLAGE TOP DOWN_387: -745971830
+      TILESET VILLAGE TOP DOWN_388: 2000012436
+      TILESET VILLAGE TOP DOWN_389: -66912336
+      TILESET VILLAGE TOP DOWN_39: -1446223375
+      TILESET VILLAGE TOP DOWN_390: 378117877
+      TILESET VILLAGE TOP DOWN_391: -426129485
+      TILESET VILLAGE TOP DOWN_392: -1877589497
+      TILESET VILLAGE TOP DOWN_393: -293346630
+      TILESET VILLAGE TOP DOWN_394: 414382008
+      TILESET VILLAGE TOP DOWN_395: 1035290877
+      TILESET VILLAGE TOP DOWN_396: -224559453
+      TILESET VILLAGE TOP DOWN_397: -812950744
+      TILESET VILLAGE TOP DOWN_398: 602501313
+      TILESET VILLAGE TOP DOWN_399: 141348149
+      TILESET VILLAGE TOP DOWN_4: -961932973
+      TILESET VILLAGE TOP DOWN_40: 903338722
+      TILESET VILLAGE TOP DOWN_400: 2121963741
+      TILESET VILLAGE TOP DOWN_401: 455842946
+      TILESET VILLAGE TOP DOWN_402: 1928409375
+      TILESET VILLAGE TOP DOWN_403: -2060703419
+      TILESET VILLAGE TOP DOWN_404: 753726658
+      TILESET VILLAGE TOP DOWN_405: 628035593
+      TILESET VILLAGE TOP DOWN_406: 559414645
+      TILESET VILLAGE TOP DOWN_407: -853400750
+      TILESET VILLAGE TOP DOWN_408: -1353362866
+      TILESET VILLAGE TOP DOWN_409: -1810818300
+      TILESET VILLAGE TOP DOWN_41: -853993754
+      TILESET VILLAGE TOP DOWN_410: -392571131
+      TILESET VILLAGE TOP DOWN_411: 1373511889
+      TILESET VILLAGE TOP DOWN_412: 661696854
+      TILESET VILLAGE TOP DOWN_413: -363312810
+      TILESET VILLAGE TOP DOWN_414: -73028507
+      TILESET VILLAGE TOP DOWN_415: 85640129
+      TILESET VILLAGE TOP DOWN_416: -1064288046
+      TILESET VILLAGE TOP DOWN_417: -1320981691
+      TILESET VILLAGE TOP DOWN_418: 931132146
+      TILESET VILLAGE TOP DOWN_419: 1448665153
+      TILESET VILLAGE TOP DOWN_42: 1599501465
+      TILESET VILLAGE TOP DOWN_420: -1480666224
+      TILESET VILLAGE TOP DOWN_421: 857367506
+      TILESET VILLAGE TOP DOWN_422: 1553594948
+      TILESET VILLAGE TOP DOWN_423: 414417362
+      TILESET VILLAGE TOP DOWN_424: 462434958
+      TILESET VILLAGE TOP DOWN_425: -630435135
+      TILESET VILLAGE TOP DOWN_426: 1695023776
+      TILESET VILLAGE TOP DOWN_427: 987023162
+      TILESET VILLAGE TOP DOWN_428: -1028866759
+      TILESET VILLAGE TOP DOWN_429: -1755226901
+      TILESET VILLAGE TOP DOWN_43: -335157365
+      TILESET VILLAGE TOP DOWN_430: -1033678509
+      TILESET VILLAGE TOP DOWN_431: -666170614
+      TILESET VILLAGE TOP DOWN_432: -1503285418
+      TILESET VILLAGE TOP DOWN_433: -1415476990
+      TILESET VILLAGE TOP DOWN_434: 982323600
+      TILESET VILLAGE TOP DOWN_435: 322621263
+      TILESET VILLAGE TOP DOWN_436: 306387904
+      TILESET VILLAGE TOP DOWN_437: 1568333349
+      TILESET VILLAGE TOP DOWN_438: -1914077175
+      TILESET VILLAGE TOP DOWN_439: -1020028905
+      TILESET VILLAGE TOP DOWN_44: 642684372
+      TILESET VILLAGE TOP DOWN_440: 1669736492
+      TILESET VILLAGE TOP DOWN_441: 1767584448
+      TILESET VILLAGE TOP DOWN_442: -2047899605
+      TILESET VILLAGE TOP DOWN_443: 675530570
+      TILESET VILLAGE TOP DOWN_444: 525378235
+      TILESET VILLAGE TOP DOWN_445: 1305602591
+      TILESET VILLAGE TOP DOWN_446: 1307279797
+      TILESET VILLAGE TOP DOWN_447: -2047223707
+      TILESET VILLAGE TOP DOWN_448: 1208577411
+      TILESET VILLAGE TOP DOWN_449: 61598294
+      TILESET VILLAGE TOP DOWN_45: -677152605
+      TILESET VILLAGE TOP DOWN_450: -88172398
+      TILESET VILLAGE TOP DOWN_451: -866127377
+      TILESET VILLAGE TOP DOWN_452: -433894146
+      TILESET VILLAGE TOP DOWN_453: -283921399
+      TILESET VILLAGE TOP DOWN_454: -1243816607
+      TILESET VILLAGE TOP DOWN_455: 15305512
+      TILESET VILLAGE TOP DOWN_456: -1959179696
+      TILESET VILLAGE TOP DOWN_457: -150069401
+      TILESET VILLAGE TOP DOWN_458: -1030034396
+      TILESET VILLAGE TOP DOWN_459: 2099657724
+      TILESET VILLAGE TOP DOWN_46: -462485886
+      TILESET VILLAGE TOP DOWN_460: -390078808
+      TILESET VILLAGE TOP DOWN_461: -1269567289
+      TILESET VILLAGE TOP DOWN_462: -861277736
+      TILESET VILLAGE TOP DOWN_463: 361872530
+      TILESET VILLAGE TOP DOWN_464: 405587593
+      TILESET VILLAGE TOP DOWN_465: -1983989377
+      TILESET VILLAGE TOP DOWN_466: -887453720
+      TILESET VILLAGE TOP DOWN_467: 1952807283
+      TILESET VILLAGE TOP DOWN_468: 1897320932
+      TILESET VILLAGE TOP DOWN_469: -1086729776
+      TILESET VILLAGE TOP DOWN_47: 1727900835
+      TILESET VILLAGE TOP DOWN_470: 556595701
+      TILESET VILLAGE TOP DOWN_471: -2072748952
+      TILESET VILLAGE TOP DOWN_472: 485113082
+      TILESET VILLAGE TOP DOWN_473: -1523739338
+      TILESET VILLAGE TOP DOWN_474: 1680919596
+      TILESET VILLAGE TOP DOWN_475: -328428752
+      TILESET VILLAGE TOP DOWN_476: -1270177834
+      TILESET VILLAGE TOP DOWN_477: -9894379
+      TILESET VILLAGE TOP DOWN_478: -1431891045
+      TILESET VILLAGE TOP DOWN_479: 775611050
+      TILESET VILLAGE TOP DOWN_48: -243166361
+      TILESET VILLAGE TOP DOWN_480: 2029651149
+      TILESET VILLAGE TOP DOWN_481: 1505132057
+      TILESET VILLAGE TOP DOWN_482: 250725749
+      TILESET VILLAGE TOP DOWN_483: 1845541936
+      TILESET VILLAGE TOP DOWN_484: 448183545
+      TILESET VILLAGE TOP DOWN_485: 1522344699
+      TILESET VILLAGE TOP DOWN_486: 177568289
+      TILESET VILLAGE TOP DOWN_487: -1702738419
+      TILESET VILLAGE TOP DOWN_488: 2112085991
+      TILESET VILLAGE TOP DOWN_489: -168489007
+      TILESET VILLAGE TOP DOWN_49: -338515488
+      TILESET VILLAGE TOP DOWN_490: 1874088575
+      TILESET VILLAGE TOP DOWN_491: -388558876
+      TILESET VILLAGE TOP DOWN_492: 1413249774
+      TILESET VILLAGE TOP DOWN_493: -1161335580
+      TILESET VILLAGE TOP DOWN_494: 1230254917
+      TILESET VILLAGE TOP DOWN_495: -90278801
+      TILESET VILLAGE TOP DOWN_496: -472058542
+      TILESET VILLAGE TOP DOWN_497: 1136889053
+      TILESET VILLAGE TOP DOWN_498: 1659906006
+      TILESET VILLAGE TOP DOWN_499: 2063247499
+      TILESET VILLAGE TOP DOWN_5: 196168366
+      TILESET VILLAGE TOP DOWN_50: 1653460515
+      TILESET VILLAGE TOP DOWN_500: 719215081
+      TILESET VILLAGE TOP DOWN_501: -713240315
+      TILESET VILLAGE TOP DOWN_502: -1124610970
+      TILESET VILLAGE TOP DOWN_503: -839752031
+      TILESET VILLAGE TOP DOWN_504: 2066905884
+      TILESET VILLAGE TOP DOWN_505: 499322267
+      TILESET VILLAGE TOP DOWN_506: 1206013324
+      TILESET VILLAGE TOP DOWN_507: -906507123
+      TILESET VILLAGE TOP DOWN_508: 425521289
+      TILESET VILLAGE TOP DOWN_509: -2076589168
+      TILESET VILLAGE TOP DOWN_51: -1961163535
+      TILESET VILLAGE TOP DOWN_510: -1680409712
+      TILESET VILLAGE TOP DOWN_511: 911499026
+      TILESET VILLAGE TOP DOWN_512: 813403100
+      TILESET VILLAGE TOP DOWN_513: -149878894
+      TILESET VILLAGE TOP DOWN_514: -349589120
+      TILESET VILLAGE TOP DOWN_515: -1214661382
+      TILESET VILLAGE TOP DOWN_516: -390183427
+      TILESET VILLAGE TOP DOWN_517: 510115648
+      TILESET VILLAGE TOP DOWN_518: 1755298797
+      TILESET VILLAGE TOP DOWN_519: 1805198509
+      TILESET VILLAGE TOP DOWN_52: -1337989828
+      TILESET VILLAGE TOP DOWN_520: -1025189817
+      TILESET VILLAGE TOP DOWN_521: -81771492
+      TILESET VILLAGE TOP DOWN_522: -1195337680
+      TILESET VILLAGE TOP DOWN_523: 1116336540
+      TILESET VILLAGE TOP DOWN_524: -546415332
+      TILESET VILLAGE TOP DOWN_525: 1949900807
+      TILESET VILLAGE TOP DOWN_526: 835834666
+      TILESET VILLAGE TOP DOWN_527: 712067043
+      TILESET VILLAGE TOP DOWN_528: 408122815
+      TILESET VILLAGE TOP DOWN_529: 614303228
+      TILESET VILLAGE TOP DOWN_53: 1866895583
+      TILESET VILLAGE TOP DOWN_530: 1876632595
+      TILESET VILLAGE TOP DOWN_531: -447368235
+      TILESET VILLAGE TOP DOWN_54: -1077832766
+      TILESET VILLAGE TOP DOWN_55: 1747613593
+      TILESET VILLAGE TOP DOWN_56: -2064592256
+      TILESET VILLAGE TOP DOWN_57: -897147875
+      TILESET VILLAGE TOP DOWN_58: 1063841810
+      TILESET VILLAGE TOP DOWN_59: 1731797996
+      TILESET VILLAGE TOP DOWN_6: 1808344458
+      TILESET VILLAGE TOP DOWN_60: 1609568471
+      TILESET VILLAGE TOP DOWN_61: -1377662725
+      TILESET VILLAGE TOP DOWN_62: -485743619
+      TILESET VILLAGE TOP DOWN_63: -188966987
+      TILESET VILLAGE TOP DOWN_64: -428852107
+      TILESET VILLAGE TOP DOWN_65: 940179654
+      TILESET VILLAGE TOP DOWN_66: 557536573
+      TILESET VILLAGE TOP DOWN_67: -590851782
+      TILESET VILLAGE TOP DOWN_68: 2009214890
+      TILESET VILLAGE TOP DOWN_69: 57504041
+      TILESET VILLAGE TOP DOWN_7: -1728822380
+      TILESET VILLAGE TOP DOWN_70: 1100685487
+      TILESET VILLAGE TOP DOWN_71: -1184893280
+      TILESET VILLAGE TOP DOWN_72: 478132554
+      TILESET VILLAGE TOP DOWN_73: 1602917910
+      TILESET VILLAGE TOP DOWN_74: -564241629
+      TILESET VILLAGE TOP DOWN_75: -307189158
+      TILESET VILLAGE TOP DOWN_76: 43324854
+      TILESET VILLAGE TOP DOWN_77: 1292572233
+      TILESET VILLAGE TOP DOWN_78: 689829237
+      TILESET VILLAGE TOP DOWN_79: -806943647
+      TILESET VILLAGE TOP DOWN_8: -440692251
+      TILESET VILLAGE TOP DOWN_80: 1814283284
+      TILESET VILLAGE TOP DOWN_81: -1729567372
+      TILESET VILLAGE TOP DOWN_82: 2066318584
+      TILESET VILLAGE TOP DOWN_83: -284224931
+      TILESET VILLAGE TOP DOWN_84: 585683374
+      TILESET VILLAGE TOP DOWN_85: 1400890800
+      TILESET VILLAGE TOP DOWN_86: -763891108
+      TILESET VILLAGE TOP DOWN_87: -105046179
+      TILESET VILLAGE TOP DOWN_88: -270323971
+      TILESET VILLAGE TOP DOWN_89: -1822269779
+      TILESET VILLAGE TOP DOWN_9: -1398629058
+      TILESET VILLAGE TOP DOWN_90: -233082101
+      TILESET VILLAGE TOP DOWN_91: -1864153447
+      TILESET VILLAGE TOP DOWN_92: -60544009
+      TILESET VILLAGE TOP DOWN_93: 78888818
+      TILESET VILLAGE TOP DOWN_94: -528522754
+      TILESET VILLAGE TOP DOWN_95: 12301246
+      TILESET VILLAGE TOP DOWN_96: -1577769763
+      TILESET VILLAGE TOP DOWN_97: -466127928
+      TILESET VILLAGE TOP DOWN_98: -394279595
+      TILESET VILLAGE TOP DOWN_99: 2062197444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
