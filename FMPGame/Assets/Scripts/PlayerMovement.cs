@@ -2,32 +2,40 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Speed of movement
-    private Rigidbody2D rb;      // Reference to the Rigidbody2D component
-    private Vector2 movement;    // Stores player input for movement
+    public float moveSpeed = 5f;      // Speed of movement
+    private Rigidbody2D rb;           // Reference to the Rigidbody2D component
+    private Vector2 movement;         // Stores normalized movement direction
+    private Animator animator;
 
-    // Start is called before the first frame update
+    private float xInput;             // Store horizontal input
+    private float yInput;             // Store vertical input
+
     void Start()
     {
-        // Get the Rigidbody2D component attached to the player
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        // Get the player's input for movement (horizontal and vertical)
-        float moveX = Input.GetAxisRaw("Horizontal");
-        float moveY = Input.GetAxisRaw("Vertical");
+        // Get raw input values
+        xInput = Input.GetAxisRaw("Horizontal");
+        yInput = Input.GetAxisRaw("Vertical");
 
-        // Normalize the movement vector to ensure consistent movement speed
-        movement = new Vector2(moveX, moveY).normalized;
+        // Create normalized movement vector
+        movement = new Vector2(xInput, yInput).normalized;
+
+        // Update Animator parameters
+        if (movement != Vector2.zero)
+        {
+            animator.SetFloat("xInput", xInput);
+            animator.SetFloat("yInput", yInput);
+        }
     }
 
-    // FixedUpdate is called at a fixed time interval, used for physics-based movement
     void FixedUpdate()
     {
-        // Apply movement to the Rigidbody2D component
+        // Move the player using physics
         rb.linearVelocity = movement * moveSpeed;
     }
 }
