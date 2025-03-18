@@ -925,9 +925,9 @@ TextureImporter:
       name: UI books & more_4
       rect:
         serializedVersion: 2
-        x: 351
+        x: 400
         y: 383
-        width: 98
+        width: 49
         height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4225,9 +4225,9 @@ TextureImporter:
       name: UI books & more_154
       rect:
         serializedVersion: 2
-        x: 608
+        x: 612
         y: 145
-        width: 16
+        width: 12
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
