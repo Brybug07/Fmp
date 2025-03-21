@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adb9c12a8c6c949f7af83a3d238359d0, type: 3}
+  m_Name: vFolders Data
+  m_EditorClassIdentifier: 
+  folderDatas_byGuid:
+    keys:
+    - ecee71bf3753fcc45ace5ff90dda3d47
+    - 9c53962885c2c4f449125a979d6ad240
+    - 3e1c67ea0c9bda04d97012e8a31f7463
+    - 77fd14e9f2c9e314bac79779b308f690
+    - 1c2fbd4af6d1fa44a90891ece2a1d38d
+    - 709f11a7f3c4041caa4ef136ea32d874
+    - 02f1d4bd18b36af4c915bc379298860a
+    - 3ee6d5ca7f043da42b6102fdfb127d17
+    - ad7b7d793f8b6a24a8044ff9c75c2ba7
+    - 21cec37b914af0543830eb62bef15a5b
+    - 8328993b7520bc7459c20193476ff808
+    - 955ae118d4f1e40439f3b76d2a359934
+    - aa177fdc1cb2e6742ae40c32d1969637
+    - 2533ba407fbfe9548b36bc2df47c13df
+    - e0fb23ddf6c1d6546a1507fd7c740d74
+    - 2b0e8a0948cbadf419f8f49032c40d64
+    - fdc89cddb7e39d6408ca0857a45eccee
+    - 58b11ef85201d5d479c792ef34bf64e2
+    - 7529f307b9836304ea21f5d070276ac3
+    - 585e0c43cd57dc04ba7f4fc22d1b4929
+    - c77ce88f77e1e8349b1df95e718c9659
+    - 966d2d0fb9d64da45bff500bc04968fe
+    - 0220aab0833d04faeb927d84ca6cc40c
+    - c4d354fa070a67049ac6eb163bdbde07
+    - 417f6ed5bed0c7948a12b4bab0ea4792
+    - 02c504ea24ee48f4ab674d23b9c43f88
+    values:
+    - colorIndex: 8
+      iconNameOrGuid: cs Script Icon
+    - colorIndex: 7
+      iconNameOrGuid: SceneAsset Icon
+    - colorIndex: 6
+      iconNameOrGuid: Prefab Icon
+    - colorIndex: 4
+      iconNameOrGuid: Mesh Icon
+    - colorIndex: 3
+      iconNameOrGuid: Material Icon
+    - colorIndex: 0
+      iconNameOrGuid: ScriptableObject Icon
+    - colorIndex: 10
+      iconNameOrGuid: Texture Icon
+    - colorIndex: 5
+      iconNameOrGuid: AnimatorController Icon
+    - colorIndex: 2
+      iconNameOrGuid: AnimationClip Icon
+    - colorIndex: 1
+      iconNameOrGuid: ScriptableObject Icon
+    - colorIndex: 9
+      iconNameOrGuid: AudioClip Icon
+    - colorIndex: 1
+      iconNameOrGuid: AnimatorController Icon
+    - colorIndex: 10
+      iconNameOrGuid: 
+    - colorIndex: 6
+      iconNameOrGuid: Font Icon
+    - colorIndex: 4
+      iconNameOrGuid: 03ce88dc2ac7285488daa2bba55b5a4d
+    - colorIndex: 1
+      iconNameOrGuid: 
+    - colorIndex: 5
+      iconNameOrGuid: RawImage Icon
+    - colorIndex: 5
+      iconNameOrGuid: RawImage Icon
+    - colorIndex: 1
+      iconNameOrGuid: df894d170d5f44be293fae0ef08b055c
+    - colorIndex: 5
+      iconNameOrGuid: MeshCollider Icon
+    - colorIndex: 8
+      iconNameOrGuid: MeshCollider Icon
+    - colorIndex: 7
+      iconNameOrGuid: cs Script Icon
+    - colorIndex: 7
+      iconNameOrGuid: Settings Icon
+    - colorIndex: 7
+      iconNameOrGuid: 
+    - colorIndex: 8
+      iconNameOrGuid: SceneAsset Icon
+    - colorIndex: 10
+      iconNameOrGuid: cd006de22c34f39488e841ebb286f93a
