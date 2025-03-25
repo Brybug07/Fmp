@@ -5,11 +5,11 @@ public class SceneChanger : MonoBehaviour
 {
     [SerializeField] private string sceneToLoad; // Set this in the Inspector
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Trigger detected with: " + other.gameObject.name); // Debug log to confirm trigger
+        Debug.Log("Trigger detected"); // Debug log to confirm trigger
 
-        if (other.CompareTag("Player")) // Ensure the Player GameObject has the "Player" tag
+        if (other.gameObject.tag == "Player") // Ensure the Player GameObject has the "Player" tag
         {
             Debug.Log("Player entered trigger zone. Loading scene: " + sceneToLoad);
             SceneManager.LoadScene(sceneToLoad);

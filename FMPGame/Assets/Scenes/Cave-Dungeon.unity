@@ -13049,7 +13049,6 @@ GameObject:
   - component: {fileID: 1799857951}
   - component: {fileID: 1799857950}
   - component: {fileID: 1799857949}
-  - component: {fileID: 1799857954}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -13066,7 +13065,7 @@ Transform:
   m_GameObject: {fileID: 1799857947}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.5548577, y: -5.4569316, z: -5.690215}
+  m_LocalPosition: {x: 1.35, y: -0.55, z: -5.6902146}
   m_LocalScale: {x: 0.09999982, y: 0.09999887, z: 0.31754813}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13252,38 +13251,6 @@ Camera:
   m_OcclusionCulling: 0
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!114 &1799857954
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1799857947}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ShowDebugText: 0
-  ShowCameraFrustum: 1
-  IgnoreTimeScale: 0
-  WorldUpOverride: {fileID: 0}
-  ChannelMask: -1
-  UpdateMethod: 2
-  BlendUpdateMethod: 1
-  LensModeOverride:
-    Enabled: 0
-    DefaultMode: 2
-  DefaultBlend:
-    Style: 1
-    Time: 2
-    CustomCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-  CustomBlends: {fileID: 0}
 --- !u!1 &1810250279
 GameObject:
   m_ObjectHideFlags: 0
