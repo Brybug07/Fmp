@@ -588,7 +588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   loadSlider: {fileID: 1114092417}
-  scene: SampleScene
+  scene: Level 1
 --- !u!1 &1141096353
 GameObject:
   m_ObjectHideFlags: 0
