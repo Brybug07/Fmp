@@ -146,14 +146,14 @@ RectTransform:
   m_GameObject: {fileID: 482143620}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.82915, y: 0.82915, z: 0.82915}
+  m_LocalScale: {x: 1.173662, y: 1.173662, z: 1.173662}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1980646920}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -285, y: 284}
+  m_AnchoredPosition: {x: -338, y: 406}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &482143622
@@ -178,8 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Once in a Blue Moon
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 16cb43f0a381b9e4283c47238dc7c74b, type: 2}
-  m_sharedMaterial: {fileID: 9167847918002876035, guid: 16cb43f0a381b9e4283c47238dc7c74b, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 68ccc1923613b8c4db7fe4a72461708c, type: 2}
+  m_sharedMaterial: {fileID: 2611163342193296285, guid: 68ccc1923613b8c4db7fe4a72461708c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -686,7 +686,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -618, y: -288}
+  m_AnchoredPosition: {x: -805, y: -414}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2027526718
