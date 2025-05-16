@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5f437b1c2d3693547a8a8da3526574ee
+guid: 798eee03362c60444809c24c2a1eb149
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -833883188239525065
-    second: pngtree-cute-love-potions-bottle-illustration-vector-png-image_6670205_0
+      213: 5614637178320563061
+    second: Rose_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-cute-love-potions-bottle-illustration-vector-png-image_6670205_0
+      name: Rose_0
       rect:
         serializedVersion: 2
-        x: 38
-        y: 6
-        width: 284
-        height: 348
+        x: 91
+        y: 73
+        width: 1418
+        height: 338
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73b10dc88a37d64f0800000000000000
-      internalID: -833883188239525065
+      spriteID: 57baf7c14c23bed40800000000000000
+      internalID: 5614637178320563061
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pngtree-cute-love-potions-bottle-illustration-vector-png-image_6670205_0: -833883188239525065
+      Rose_0: 5614637178320563061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
