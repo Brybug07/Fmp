@@ -22,11 +22,11 @@ public class SceneChanger : MonoBehaviour
 
         camBrain.transform.localPosition = tpTo.transform.position;
 
-        if (blackout == true)
+        if ((blackout == true) && (blackoutImage != null))
         {
             blackoutImage.SetActive(true);
         }
-        else
+        else if ((blackout == false) && (blackoutImage != null))
         {
             blackoutImage.SetActive(false);
         }
