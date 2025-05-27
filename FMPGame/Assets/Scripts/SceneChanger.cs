@@ -13,9 +13,11 @@ public class SceneChanger : MonoBehaviour
     [SerializeField] GameObject player;
     [SerializeField] GameObject cam;
     [SerializeField] GameObject camBrain;
+    public AudioSource teleportSound;
 
     public void Teleport()
     {
+        teleportSound.Play();
         player.transform.localPosition = tpTo.transform.position;
 
         cam.transform.localPosition = tpTo.transform.position;

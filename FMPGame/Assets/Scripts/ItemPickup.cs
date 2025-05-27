@@ -8,6 +8,7 @@ public class ItemPickup : MonoBehaviour
     public string itemName;
     private CauldronCollision cauldron;
     public GameObject CauldronGo;
+    public AudioSource PickupSound;
 
     private void Start()
     {
@@ -19,6 +20,7 @@ public class ItemPickup : MonoBehaviour
         // Check if the colliding object has the "Player" tag
         if (other.CompareTag("Player"))
         {
+            PickupSound.Play();
             PickUpItem();
         }
     }
