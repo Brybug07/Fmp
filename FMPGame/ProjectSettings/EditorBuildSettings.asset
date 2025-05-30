@@ -35,7 +35,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Cabin.unity
     guid: 095f3494a1c230d429df3a3607d6ceba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/In Game Quit.unity
     guid: 2fac5bc98623e6f4691bd2bb88ac9d48
   - enabled: 1
